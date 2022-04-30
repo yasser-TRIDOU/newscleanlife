@@ -21,7 +21,7 @@
         "pluginVersion": "1.5.11",
         "options_cache": {
             "cache_handler_cache_handler": false,
-            "woocommerce_default_customer_address": "base"
+            "woocommerce_default_customer_address": "geolocation"
         }
     },
     "config_path": "e231b5713e31e69c8cfa66436bf4bc61"
