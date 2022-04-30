@@ -1,0 +1,75 @@
+Version 1.0.6
+    Added:
+        - WP 5.8.2 compatibility
+        - PHP 8 compatibility
+        - Added ThemeREX Socials plugin
+
+    Removed:
+        - Instagram Feed plugin
+
+    Fixed:
+        - Update plugins to their latest versions
+
+Version 1.0.5
+    Added:
+        - WP 5.5.1 compatibility
+    Fixed:
+        - Theme styles
+        - Update plugins to their latest versions
+
+    Changed:
+        - Update demo data
+
+Version 1.0.4
+    Added:
+        - WP 5.5 compatibility
+        - PHP 7.4 compatibility
+
+    Fixed:
+        - Theme styles
+        - Update plugins to their latest versions
+
+    Changed:
+        - WooCommerce 'Products per row' and 'Rows per page' settings moved to 'WooCommerce' Customizer section
+        - Update demo data
+
+Version 1.0.3
+    Added:
+       - Compatibility with WP 5.3.2
+       - Contact Form 7 plugin
+       - elegro Crypto Payment plugin
+       - ThemeREX Updater plugin
+
+    Changed:
+        - Reassemble content without using Layouts
+        - Replace default contact forms with Contact Form 7
+        - Update demo data
+
+    Fixed:
+       - Update plugins to their latest versions
+       - Improve theme styles
+
+Version 1.0.2
+    Added:
+        - GDPR Compliance plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with Gutenberg and other PageBuilders
+        - Compatibility with Wordpress 5.0
+        - Compatibility with Woocommerce 3.5.3
+        - Update plugins to their latest versions
+        - Google map
+        - Update documentation
+
+    Changed:
+        - Make forms GDPR-compliant
+
+Version 1.0.1
+    Updated plugins to their latest versions
+    Added Calculated Fields Form with US Units
+    Updated documentation
+
+
+Version 1.0 - Release

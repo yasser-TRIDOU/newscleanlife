@@ -1,0 +1,240 @@
+<?php
+//Custom Layouts
+$layouts = array(
+		'header_10' => array(
+				'name' => 'Header Default',
+				'template' => '<p>[vc_row content_placement=\"middle\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" row_type=\"compact\" row_delimiter=\"\" row_fixed=\"2\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"\" css=\".vc_custom_1514273538180{padding-top: 0px !important;padding-right: 2.4rem !important;padding-bottom: 0px !important;padding-left: 0px !important;}\"][vc_column icons_position=\"left\"][trx_sc_content size=\"1_1\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_row_inner content_placement=\"middle\"][vc_column_inner width=\"1/6\" icons_position=\"left\" offset=\"vc_col-xs-6\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][trx_sc_layouts_logo hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" logo_height=\"73\" logo=\"759\" logo_retina=\"759\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/vc_column_inner][vc_column_inner width=\"5/6\" column_align=\"right\" icons_position=\"left\" offset=\"vc_col-xs-6\"][trx_sc_layouts_menu location=\"none\" menu=\"main-menu\" hover=\"slide_line\" animation_in=\"fadeInUpSmall\" animation_out=\"fadeOutDownSmall\" mobile_button=\"1\" mobile_menu=\"1\" hide_on_mobile=\"1\" burger=\"\" mobile=\"1\" stretch=\"\" mobile_hide=\"1\"][trx_sc_button type=\"default\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"1\" link=\"/contacts/\" title=\"Ask An Expert\"][/vc_column_inner][/vc_row_inner][/trx_sc_content][/vc_column][/vc_row]</p>
+',
+				'meta' => array(
+						'trx_addons_layout_type' => 'header',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"header";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514273538180{padding-top: 0px !important;padding-right: 2.4rem !important;padding-bottom: 0px !important;padding-left: 0px !important;}'
+						)
+				),
+		'footer_11' => array(
+				'name' => 'Footer Default',
+				'template' => '[vc_row full_width=\"stretch_row_content_no_spaces\" equal_height=\"yes\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\"][vc_column width=\"1/2\" scheme=\"default\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514384755670{background-color: #ffffff !important;}\" offset=\"vc_col-md-8\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514213735119{margin-top: -0.7rem !important;}\"][trx_sc_content size=\"2_3\" float=\"right\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_row_inner scheme=\"default\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1514214494660{background-color: #ffffff !important;}\"][vc_column_inner width=\"5/6\" icons_position=\"left\" offset=\"vc_col-md-offset-0 vc_col-md-9 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10\"][trx_sc_form type=\"default\" labels=\"\" title_style=\"default\" title_align=\"left\" title=\"Ask a Professional\" subtitle=\"Contact Form\" button_caption=\"submit info\"][/vc_column_inner][/vc_row_inner][/trx_sc_content][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/vc_column][vc_column width=\"1/2\" scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514384777684{background-color: #213670 !important;}\" offset=\"vc_col-md-4\"][trx_sc_content size=\"1_3\" float=\"left\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_row_inner hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" row_delimiter=\"\"][vc_column_inner width=\"5/6\" icons_position=\"left\" offset=\"vc_col-md-offset-3 vc_col-md-9 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514215762240{margin-top: 0.4rem !important;}\"][trx_widget_contacts columns=\"\" googlemap=\"\" socials=\"1\" address=\"8500, Lorem Street, Chicago | IL 55030\" phone=\"(123) 456-78-90\" email=\"info@example.com\" css=\".vc_custom_1519985023700{background-size: cover !important;}\" logo=\"761\" logo_retina=\"761\"][/trx_widget_contacts][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][vc_wp_text]<a href=\"https://themeforest.net/user/ancorathemes/portfolio\" target=\"_blank\" rel=\"noopener\">AncoraThemes &copy; {{Y}}</a>
+All rights reserved.[/vc_wp_text][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514216035876{margin-top: 1.25rem !important;}\"][/vc_column_inner][/vc_row_inner][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'footer',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"footer";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514384755670{background-color: #ffffff !important;}.vc_custom_1514384777684{background-color: #213670 !important;}.vc_custom_1514213735119{margin-top: -0.7rem !important;}.vc_custom_1514214494660{background-color: #ffffff !important;}.vc_custom_1514215762240{margin-top: 0.4rem !important;}.vc_custom_1519985023700{background-size: cover !important;}.vc_custom_1514216035876{margin-top: 1.25rem !important;}'
+						)
+				),
+		'header_17' => array(
+				'name' => 'Header Fullwidth Simple',
+				'template' => '[vc_row content_placement=\"middle\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" row_type=\"compact\" row_delimiter=\"\" row_fixed=\"1\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"\" css=\".vc_custom_1514450519626{padding-top: 0px !important;padding-right: 2.4rem !important;padding-bottom: 0px !important;padding-left: 0px !important;}\"][vc_column width=\"1/6\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" column_align=\"left\" icons_position=\"left\" column_type=\"center\" offset=\"vc_col-xs-12\"][trx_sc_content size=\"100p\" align=\"center\" number_position=\"br\" title_style=\"default\" link_style=\"default\" css=\".vc_custom_1513070826012{background-color: #213670 !important;}\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][trx_sc_layouts_logo][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/trx_sc_content][/vc_column][vc_column width=\"1/6\" column_align=\"center\" icons_position=\"left\" offset=\"vc_col-xs-12 vc_hidden-xs\"][trx_sc_layouts_search style=\"normal\" ajax=\"\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/vc_column][vc_column width=\"2/3\" column_align=\"right\" icons_position=\"left\" offset=\"vc_col-xs-12\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"1\" hide_on_notebook=\"1\" hide_on_tablet=\"1\" hide_on_mobile=\"\"][trx_sc_layouts_menu location=\"none\" menu=\"main-menu\" hover=\"slide_line\" animation_in=\"fadeInUpSmall\" animation_out=\"fadeOutDownSmall\" mobile_button=\"1\" mobile_menu=\"1\" hide_on_mobile=\"1\" burger=\"\" mobile=\"1\" stretch=\"\" mobile_hide=\"1\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"1\" hide_on_notebook=\"1\" hide_on_tablet=\"1\" hide_on_mobile=\"\"][trx_sc_layouts_cart hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"1\"][trx_sc_socials align=\"none\" icons=\"%5B%7B%7D%5D\" title_style=\"default\" link_style=\"default\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"1\"][/vc_column][/vc_row][vc_row scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" row_type=\"normal\" row_delimiter=\"\" row_fixed=\"\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"1\" css=\".vc_custom_1513075372402{background-color: #61d0e0 !important;}\"][vc_column column_align=\"center\" icons_position=\"left\"][trx_sc_content size=\"1_1\" align=\"left\" number_position=\"br\" title_style=\"default\" link_style=\"default\" padding=\"none\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513080867976{margin-top: 0.75rem !important;}\"][trx_sc_layouts_title align=\"left\" title=\"1\" meta=\"\" breadcrumbs=\"1\" use_featured_image=\"\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"\" icon_type=\"fontawesome\" icon_fontawesome=\"\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513081605721{margin-top: 0.8rem !important;}\"][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'header',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"header";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514450519626{padding-top: 0px !important;padding-right: 2.4rem !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1513075372402{background-color: #61d0e0 !important;}.vc_custom_1513070826012{background-color: #213670 !important;}.vc_custom_1513080867976{margin-top: 0.75rem !important;}.vc_custom_1513081605721{margin-top: 0.8rem !important;}'
+						)
+				),
+		'custom_402' => array(
+				'name' => 'Now is Free Wide Banner',
+				'template' => '[vc_row scheme=\"dark\" row_delimiter=\"\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"\"][vc_column icons_position=\"left\"][trx_sc_action type=\"default\" full_height=\"\" actions=\"%5B%7B%22position%22%3A%22ml%22%2C%22title%22%3A%22Weight%20Loss%20Program%3A%7C%20DAY-BY-DAY%20PLAN%22%2C%22subtitle%22%3A%22now%20is%20free%22%2C%22link%22%3A%22%2Fservices%2F%22%2C%22link_text%22%3A%22more%20details%22%7D%5D\" slider=\"\" title_style=\"default\" color_style=\"link2\" link_style=\"default\" css=\".vc_custom_1513353551943{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_cta4.jpg?id=403) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1513353551943{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_cta4.jpg?id=403) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}'
+						)
+				),
+		'custom_454' => array(
+				'name' => 'Welcome',
+				'template' => '[vc_row full_width=\"stretch_row\" hide_bg_image_on_tablet=\"1\" hide_bg_image_on_mobile=\"1\" css=\".vc_custom_1514454810168{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_welcome.jpg?id=384) !important;background-position: center right !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][vc_column icons_position=\"left\" offset=\"vc_col-md-6\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513260594343{margin-top: 0.7rem !important;}\"][trx_sc_title title_style=\"default\" link_style=\"default\" title=\"Your weight loss support\" subtitle=\"Welcome there!\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514276295171{margin-top: -0.5rem !important;}\"][vc_row_inner][vc_column_inner width=\"3/4\" icons_position=\"left\"][vc_column_text]It\'s a familiar story: You pledge to honor a daily elliptical routine and count every last calorie. But soon, you\'re eating cupcakes at the office and grabbing happy hour mojitos, thinking, Oops, diet over.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514276331283{margin-top: 0.6rem !important;}\"][trx_sc_button type=\"simple\" color_style=\"link3\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/contacts/\" title=\"ask an expert\"][trx_sc_button type=\"default\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/services/\" title=\"more info\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513260677302{margin-top: 0.85rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514454810168{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_welcome.jpg?id=384) !important;background-position: center right !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1513260594343{margin-top: 0.7rem !important;}.vc_custom_1514276295171{margin-top: -0.5rem !important;}.vc_custom_1514276331283{margin-top: 0.6rem !important;}.vc_custom_1513260677302{margin-top: 0.85rem !important;}'
+						)
+				),
+		'custom_460' => array(
+				'name' => 'Products',
+				'template' => '[vc_row][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514279721126{margin-top: 0.6rem !important;}\"][trx_sc_title title_style=\"default\" title_align=\"center\" link_style=\"default\" title=\"Weight loss products\" subtitle=\"Online Store\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514279755533{margin-top: -1.1rem !important;}\"][products columns=\"4\" orderby=\"date\" order=\"DESC\" ids=\"336, 320, 324, 328\"][trx_sc_button type=\"default\" color_style=\"link2\" new_window=\"\" align=\"center\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/shop/\" title=\"view more products\" css=\".vc_custom_1514280032426{margin-top: -0.4rem !important;}\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514279721126{margin-top: 0.6rem !important;}.vc_custom_1514279755533{margin-top: -1.1rem !important;}.vc_custom_1514280032426{margin-top: -0.4rem !important;}'
+						)
+				),
+		'custom_463' => array(
+				'name' => '12 Yoga Poses',
+				'template' => '[vc_row full_width=\"stretch_row\" scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1513606991091{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo.jpg?id=466) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][vc_column width=\"7/12\" icons_position=\"left\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513607143347{margin-top: 0.7rem !important;}\"][trx_sc_action type=\"default\" full_height=\"\" actions=\"%5B%7B%22position%22%3A%22ml%22%2C%22title%22%3A%2212%20Basic%7C%20%20Yoga%7C%20%20Poses%22%2C%22subtitle%22%3A%22Video%20lessons%22%2C%22link%22%3A%22%2Fmediterranean-diet-plan-the-worlds-healthiest-diet%2F%22%2C%22link_text%22%3A%22want%20more%3F%22%7D%5D\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513607197114{margin-top: 2.2rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1513606991091{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo.jpg?id=466) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1513607143347{margin-top: 0.7rem !important;}.vc_custom_1513607197114{margin-top: 2.2rem !important;}'
+						)
+				),
+		'custom_484' => array(
+				'name' => '10 Ways to Eat',
+				'template' => '[vc_row full_width=\"stretch_row\" scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1514208379763{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo2.jpg?id=482) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][vc_column width=\"7/12\" icons_position=\"left\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514208503629{margin-top: 0.6rem !important;}\"][trx_sc_action type=\"default\" full_height=\"\" actions=\"%5B%7B%22position%22%3A%22ml%22%2C%22title%22%3A%2210%20ways%7C%20to%20eat%7C%20clean%22%2C%22subtitle%22%3A%22issue%20recipes%22%2C%22link%22%3A%22%2Fa-recipe-for-a-nice-shiny-mood%2F%22%2C%22link_text%22%3A%22want%20more%3F%22%7D%5D\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514208538649{margin-top: 2.25rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514208379763{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo2.jpg?id=482) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1514208503629{margin-top: 0.6rem !important;}.vc_custom_1514208538649{margin-top: 2.25rem !important;}'
+						)
+				),
+		'custom_486' => array(
+				'name' => 'Pricing',
+				'template' => '[vc_row full_width=\"stretch_row\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1507820004479{background-color: #ffe1dd !important;}\"][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514212516576{margin-top: 0.7rem !important;}\"][trx_sc_price prices=\"%5B%7B%22title%22%3A%22Weight%20Loss%20Individual%20%20Consultation%22%2C%22price%22%3A%22free%22%2C%22link%22%3A%22%2Fcontacts%2F%22%2C%22link_text%22%3A%22more%20info%22%7D%2C%7B%22title%22%3A%22Individual%20%20Nutrition%20Plan%22%2C%22price%22%3A%22%2499%22%2C%22after_price%22%3A%22%2Fmo%22%2C%22link%22%3A%22%2Fcontacts%2F%22%2C%22link_text%22%3A%22more%20info%22%7D%2C%7B%22title%22%3A%22Nutrition%20and%20Full-Body%20Workout%20Plan%22%2C%22price%22%3A%22%24199%22%2C%22after_price%22%3A%22%2Fmo%22%2C%22link%22%3A%22%2Fcontacts%2F%22%2C%22link_text%22%3A%22more%20info%22%7D%5D\" title_style=\"default\" title_align=\"center\" link_style=\"default\" css=\".vc_custom_1514212470520{background-color: #ffe1dd !important;}\" title=\"Weight loss plans\" subtitle=\"Choose Your Plan\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514212593648{margin-top: -0.4rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1507820004479{background-color: #ffe1dd !important;}.vc_custom_1514212516576{margin-top: 0.7rem !important;}.vc_custom_1514212470520{background-color: #ffe1dd !important;}.vc_custom_1514212593648{margin-top: -0.4rem !important;}'
+						)
+				),
+		'custom_502' => array(
+				'name' => 'Blogger + widgets',
+				'template' => '[vc_row content_placement=\"bottom\"][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514194518887{margin-top: 0.8rem !important;}\"][/vc_column][vc_column icons_position=\"left\" offset=\"vc_col-md-8\"][trx_sc_blogger type=\"modern\" cat=\"15\" orderby=\"post_date\" order=\"desc\" slider=\"\" title_style=\"default\" link_style=\"default\" columns=\"1\" count=\"2\" title=\"Healthy updates\" subtitle=\"News & Updates\"][/vc_column][vc_column icons_position=\"left\" offset=\"vc_col-md-4\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514194670237{margin-top: 0.4rem !important;}\"][trx_widget_aboutme title=\"Ask a Nutrition And Healthy Expert\" avatar=\"127\" username=\"Amanda Green\" description=\"#\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514194813469{margin-top: 0.9rem !important;}\"][trx_widget_banner title=\"Sign-Up and Slim Down!\" code=\"#E-8_JTVCbWM0d3BfZm9ybSUyMGlkJTNEJTIyNTM3JTIyJTVE\"][/vc_column][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514196218334{margin-top: 0.15rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514194518887{margin-top: 0.8rem !important;}.vc_custom_1514194670237{margin-top: 0.4rem !important;}.vc_custom_1514194813469{margin-top: 0.9rem !important;}.vc_custom_1514196218334{margin-top: 0.15rem !important;}'
+						)
+				),
+		'custom_504' => array(
+				'name' => 'Testimonials',
+				'template' => '<p>[vc_row full_width=\"stretch_row\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1507817553387{background-color: #61d0e0 !important;}\"][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514196863394{margin-top: 0.7rem !important;}\"][trx_sc_title title_style=\"default\" title_align=\"center\" link_style=\"default\" scheme=\"dark\" title=\"Success Stories\" subtitle=\"Testimonials\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514205901693{margin-top: 1rem !important;}\"][trx_sc_testimonials type=\"default\" orderby=\"post_date\" order=\"desc\" slider=\"1\" slides_space=\"30\" slider_pagination=\"bottom\" slider_pagination_thumbs=\"\" title_style=\"default\" title_align=\"center\" link_style=\"default\" count=\"4\" columns=\"3\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514208260287{margin-top: 0.2rem !important;}\"][/vc_column][/vc_row]</p>
+',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1507817553387{background-color: #61d0e0 !important;}.vc_custom_1514196863394{margin-top: 0.7rem !important;}.vc_custom_1514205901693{margin-top: 1rem !important;}.vc_custom_1514208260287{margin-top: 0.2rem !important;}'
+						)
+				),
+		'footer_510' => array(
+				'name' => 'Footer',
+				'template' => '[vc_row row_type=\"normal\" row_delimiter=\"1\" row_fixed=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" hide_on_frontpage=\"\"][vc_column icons_position=\"left\"][trx_sc_content size=\"1_1\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_row_inner content_placement=\"middle\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" row_delimiter=\"\"][vc_column_inner icons_position=\"left\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513082649097{margin-top: -5px !important;}\"][/vc_column_inner][vc_column_inner width=\"1/2\" icons_position=\"left\" offset=\"vc_col-xs-12\"][trx_widget_contacts columns=\"\" googlemap=\"\" socials=\"\" logo=\"761\" logo_retina=\"761\"][/trx_widget_contacts][/vc_column_inner][vc_column_inner width=\"1/2\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" column_align=\"right\" icons_position=\"left\" offset=\"vc_col-xs-12\"][trx_widget_contacts columns=\"\" googlemap=\"\" socials=\"1\"][/trx_widget_contacts][vc_wp_text]
+<p style=\"text-align: right;\"><a href=\"https://themeforest.net/user/ancorathemes/portfolio\">AncoraThemes</a> &copy; {{Y}}. All rights reserved.</p>
+[/vc_wp_text][/vc_column_inner][vc_column_inner icons_position=\"left\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/vc_column_inner][/vc_row_inner][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'footer',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"footer";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1513082649097{margin-top: -5px !important;}'
+						)
+				),
+		'custom_611' => array(
+				'name' => 'Welcome there!',
+				'template' => '[vc_row full_width=\"stretch_row_content_no_spaces\" content_placement=\"middle\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1514377577805{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_welcome-1.jpg?id=490) !important;background-position: center right !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][vc_column icons_position=\"left\" offset=\"vc_col-md-6 vc_col-xs-12\"][trx_sc_content size=\"1_2\" float=\"right\" align=\"right\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][trx_sc_title title_style=\"default\" title_align=\"right\" link_style=\"default\" title=\"Your weight loss support\" subtitle=\"Welcome there!\" description=\"It\'s a familiar story: You pledge to honor a daily elliptical routine and count every last calorie. But soon, you\'re eating cupcakes at the office and grabbing happy hour mojitos, thinking, Oops, diet over.\"][vc_empty_space hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][trx_sc_button type=\"simple\" color_style=\"link3\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/contacts/\" title=\"ask an expert\"][trx_sc_button type=\"default\" color_style=\"link2\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/about-us/\" title=\"more info\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\"][/trx_sc_content][/vc_column][vc_column icons_position=\"left\" offset=\"vc_col-md-offset-1 vc_col-md-5 vc_col-sm-offset-0\"][trx_sc_services type=\"callouts\" featured=\"image\" featured_position=\"left\" hide_excerpt=\"\" no_margin=\"\" icons_animation=\"\" popup=\"\" orderby=\"post_date\" title_style=\"default\" link_style=\"default\" ids=\"352,350\" columns=\"1\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514377577805{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/bg_welcome-1.jpg?id=490) !important;background-position: center right !important;background-repeat: no-repeat !important;background-size: cover !important;}'
+						)
+				),
+		'custom_618' => array(
+				'name' => 'How to start',
+				'template' => '[vc_row full_width=\"stretch_row\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1507821321201{background-color: #ffe1dd !important;}\"][vc_column][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513512302601{margin-top: 0.7rem !important;}\"][trx_sc_services type=\"light\" featured=\"number\" featured_position=\"bottom\" hide_excerpt=\"1\" no_margin=\"\" icons_animation=\"\" popup=\"\" cat=\"52\" orderby=\"post_date\" order=\"desc\" slider=\"\" title_style=\"default\" title_align=\"center\" link_style=\"default\" count=\"3\" columns=\"3\" title=\"It’s easy to start today!\" subtitle=\"How to start\" link=\"/fitness/\" link_text=\"let\'s start today!\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513514394702{margin-top: 1.05rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1507821321201{background-color: #ffe1dd !important;}.vc_custom_1513512302601{margin-top: 0.7rem !important;}.vc_custom_1513514394702{margin-top: 1.05rem !important;}'
+						)
+				),
+		'custom_634' => array(
+				'name' => 'Weight calculator',
+				'template' => '[vc_row full_width=\"stretch_row_content_no_spaces\" equal_height=\"yes\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\"][vc_column hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514383565425{border-bottom-width: 1px !important;border-bottom-color: #e5e5e5 !important;border-bottom-style: solid !important;}\" offset=\"vc_col-md-5\"][trx_sc_content size=\"none\" align=\"right\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][trx_sc_services type=\"callouts\" featured=\"image\" featured_position=\"left\" hide_excerpt=\"\" no_margin=\"\" icons_animation=\"\" popup=\"\" orderby=\"post_date\" order=\"desc\" title_style=\"default\" link_style=\"default\" ids=\"358,348\" columns=\"1\"][/trx_sc_content][/vc_column][vc_column scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514383809797{background-color: #213670 !important;}\" offset=\"vc_col-md-offset-0 vc_col-md-7 vc_col-sm-offset-0\"][trx_sc_content size=\"1_2\" float=\"left\" shift_x=\"medium\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513602721304{margin-top: 0.9rem !important;}\"][trx_sc_title title_style=\"default\" link_style=\"default\" scheme=\"dark\" title=\"Weight calculator\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513602834367{margin-top: -0.25rem !important;}\"][vc_tta_tabs active_section=\"1\" el_class=\"w_calculator\"][vc_tta_section title=\"Metric Units\" tab_id=\"1522393618907-9d03c55f-d6fc\"][CP_CALCULATED_FIELDS id=\"3\"][/vc_tta_section][vc_tta_section title=\"US units\" tab_id=\"1522393618941-90189fb3-7188\" el_class=\"usunits\"][CP_CALCULATED_FIELDS id=\"6\"][/vc_tta_section][/vc_tta_tabs][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514383565425{border-bottom-width: 1px !important;border-bottom-color: #e5e5e5 !important;border-bottom-style: solid !important;}.vc_custom_1514383809797{background-color: #213670 !important;}.vc_custom_1513602721304{margin-top: 0.9rem !important;}.vc_custom_1513602834367{margin-top: -0.25rem !important;}'
+						)
+				),
+		'custom_676' => array(
+				'name' => 'Main Rules',
+				'template' => '[vc_row][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513606543490{margin-top: 0.55rem !important;}\"][trx_sc_services type=\"default\" featured=\"image\" featured_position=\"top\" hide_excerpt=\"\" no_margin=\"\" icons_animation=\"\" popup=\"\" cat=\"45\" orderby=\"post_date\" order=\"desc\" title_style=\"default\" title_align=\"center\" link_style=\"default\" count=\"3\" columns=\"3\" title=\"Weight loss main rules\" subtitle=\"Main Rules\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513606591869{margin-top: -0.65rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1513606543490{margin-top: 0.55rem !important;}.vc_custom_1513606591869{margin-top: -0.65rem !important;}'
+						)
+				),
+		'custom_678' => array(
+				'name' => 'From the Blog',
+				'template' => '[vc_row equal_height=\"yes\" content_placement=\"bottom\"][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514209223941{margin-top: 0.6rem !important;}\"][/vc_column][vc_column width=\"1/2\" icons_position=\"left\" offset=\"vc_col-xs-12\"][trx_sc_title title_style=\"default\" link_style=\"default\" title=\"Healthy Recipes\" subtitle=\"From the Blog\"][/vc_column][vc_column width=\"1/2\" icons_position=\"left\" offset=\"vc_col-xs-6 vc_hidden-xs\"][trx_sc_button type=\"default\" color_style=\"link2\" new_window=\"\" align=\"right\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/about-us/\" title=\"View More\"][/vc_column][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514209476829{margin-top: 0.8rem !important;}\"][/vc_column][vc_column icons_position=\"left\"][trx_sc_blogger type=\"modern\" post_type=\"cpt_services\" taxonomy=\"cpt_services_group\" cat=\"47\" orderby=\"none\" title_style=\"default\" link_style=\"default\" count=\"4\" columns=\"2\"][/vc_column][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514212270360{margin-top: -0.15rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514209223941{margin-top: 0.6rem !important;}.vc_custom_1514209476829{margin-top: 0.8rem !important;}.vc_custom_1514212270360{margin-top: -0.15rem !important;}'
+						)
+				),
+		'custom_682' => array(
+				'name' => 'Weight Calculator 2',
+				'template' => '[vc_row full_width=\"stretch_row_content_no_spaces\" equal_height=\"yes\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\"][vc_column width=\"5/12\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514387298965{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home2_calculator.jpg?id=457) !important;background-position: top left !important;background-repeat: no-repeat !important;background-size: cover !important;}\" offset=\"vc_col-md-5 vc_hidden-sm vc_hidden-xs\"][/vc_column][vc_column scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" icons_position=\"left\" css=\".vc_custom_1514387311560{background-color: #213670 !important;}\" offset=\"vc_col-md-7\"][trx_sc_content size=\"1_2\" float=\"left\" shift_x=\"medium\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513602721304{margin-top: 0.9rem !important;}\"][trx_sc_title title_style=\"default\" link_style=\"default\" scheme=\"dark\" title=\"Weight calculator\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1513602834367{margin-top: -0.25rem !important;}\"][vc_tta_tabs active_section=\"1\" el_class=\"w_calculator\"][vc_tta_section title=\"Metric units\" tab_id=\"1522393977251-73bf780a-bc26\"][CP_CALCULATED_FIELDS id=\"3\"][/vc_tta_section][vc_tta_section title=\"US Units\" tab_id=\"1522393977288-cf13f373-c876\" el_class=\"usunits\"][CP_CALCULATED_FIELDS id=\"6\"][/vc_tta_section][/vc_tta_tabs][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514279538278{margin-top: 0.2rem !important;}\"][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514387298965{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home2_calculator.jpg?id=457) !important;background-position: top left !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1514387311560{background-color: #213670 !important;}.vc_custom_1513602721304{margin-top: 0.9rem !important;}.vc_custom_1513602834367{margin-top: -0.25rem !important;}.vc_custom_1514279538278{margin-top: 0.2rem !important;}'
+						)
+				),
+		'custom_718' => array(
+				'name' => '12 Yoga Poses Boxed',
+				'template' => '[vc_row scheme=\"dark\" hide_bg_image_on_tablet=\"\" hide_bg_image_on_mobile=\"\" css=\".vc_custom_1514299317531{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo.jpg?id=466) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}\"][vc_column width=\"7/12\" icons_position=\"left\" offset=\"vc_col-sm-offset-1\"][vc_empty_space hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514299536153{margin-top: 0.7rem !important;}\"][trx_sc_action type=\"default\" full_height=\"\" actions=\"%5B%7B%22position%22%3A%22ml%22%2C%22title%22%3A%2212%20Basic%7C%20%20Yoga%7C%20%20Poses%22%2C%22subtitle%22%3A%22Video%20lessons%22%2C%22link%22%3A%22%2Fwhole-wheat-products-features-benefits%2F%22%2C%22link_text%22%3A%22want%20more%3F%22%7D%5D\" title_style=\"default\" link_style=\"default\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514299702316{margin-top: 1.2rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514299317531{background-image: url(http://gracioza.ancorathemes.com/wp-content/uploads/2017/10/home1_promo.jpg?id=466) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1514299536153{margin-top: 0.7rem !important;}.vc_custom_1514299702316{margin-top: 1.2rem !important;}'
+						)
+				),
+		'custom_728' => array(
+				'name' => 'What’s New',
+				'template' => '[vc_row][vc_column][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514284004619{margin-top: -0.6rem !important;}\"][trx_widget_recent_news style=\"news-magazine\" show_categories=\"1\" columns=\"4\" featured=\"0\" orderby=\"date\" order=\"desc\" ids=\"108,242,253,288\" title=\"What\'s New?\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514284004619{margin-top: -0.6rem !important;}'
+						)
+				),
+		'custom_730' => array(
+				'name' => 'What’s New 2',
+				'template' => '[vc_row][vc_column icons_position=\"left\"][vc_column_text]<span class=\"trx_addons_widget_title\">What’s New?</span>[/vc_column_text][/vc_column][vc_column icons_position=\"left\" offset=\"vc_col-md-8\"][trx_widget_recent_news style=\"news-magazine\" show_categories=\"\" columns=\"1\" featured=\"1\" orderby=\"none\" order=\"asc\" ids=\"99\"][trx_widget_recent_news style=\"news-excerpt\" show_categories=\"\" orderby=\"date\" order=\"desc\" ids=\"431,433,435,437\"][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514299049853{margin-top: 0.65rem !important;}\"][trx_sc_button type=\"simple\" color_style=\"dark\" new_window=\"\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"/all-posts/\" title=\"view more\"][/vc_column][vc_column width=\"1/3\" icons_position=\"left\" el_class=\"sidebar widget_area scheme_default\" offset=\"vc_hidden-sm vc_hidden-xs\"][vc_widget_sidebar sidebar_id=\"custom_widgets_1\" el_class=\"sidebar_inner\"][/vc_column][vc_column icons_position=\"left\"][vc_empty_space alter_height=\"large\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514299220529{margin-top: 0.8rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514299049853{margin-top: 0.65rem !important;}.vc_custom_1514299220529{margin-top: 0.8rem !important;}'
+						)
+				),
+		'custom_732' => array(
+				'name' => 'Popular Posts',
+				'template' => '[vc_row][vc_column][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514301214022{margin-top: 1.2rem !important;}\"][trx_sc_content size=\"none\" align=\"center\" number_position=\"br\" title_style=\"default\" link_style=\"default\"][trx_widget_recent_news style=\"news-magazine\" show_categories=\"\" columns=\"4\" featured=\"0\" orderby=\"date\" order=\"desc\" ids=\"118,242,284,288\" title=\"Popular Posts\"][/trx_sc_content][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514301214022{margin-top: 1.2rem !important;}'
+						)
+				),
+		'custom_734' => array(
+				'name' => 'Instagram',
+				'template' => '[vc_row][vc_column][trx_sc_title title_style=\"default\" title_align=\"center\" link_style=\"default\" subtitle=\"Follow Us on Instagram\"][vc_empty_space alter_height=\"medium\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514301368768{margin-top: -0.75rem !important;}\"][vc_column_text][instagram-feed][/vc_column_text][vc_empty_space alter_height=\"small\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514301403071{margin-top: 0.1rem !important;}\"][trx_sc_button type=\"default\" new_window=\"\" align=\"center\" icon_position=\"left\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" link=\"https://www.instagram.com/healthy_body_ancora/\" title=\"follow us\"][vc_empty_space alter_height=\"huge\" hide_on_desktop=\"\" hide_on_notebook=\"\" hide_on_tablet=\"\" hide_on_mobile=\"\" css=\".vc_custom_1514301462537{margin-top: 1rem !important;}\"][/vc_column][/vc_row]',
+				'meta' => array(
+						'trx_addons_layout_type' => 'custom',
+						'trx_addons_options' => 'a:2:{s:11:"layout_type";s:6:"custom";s:6:"margin";s:0:"";}',
+						'panels_data' => 's:0:"";',
+						'_wpb_shortcodes_custom_css' => '.vc_custom_1514301368768{margin-top: -0.75rem !important;}.vc_custom_1514301403071{margin-top: 0.1rem !important;}.vc_custom_1514301462537{margin-top: 1rem !important;}'
+						)
+				)
+		);
+?>

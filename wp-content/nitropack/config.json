@@ -3,7 +3,7 @@
         "siteId": "EeTPPaMqXBUMAPyVgPtANkhaeGIOlUNe",
         "siteSecret": "nTSPRf0SRE4qMS8XPI77AaasRS3jVtzyMhkCJrc3rARdpUM6S5CwRZvFjxo0jYBT",
         "blogId": 1,
-        "compression": false,
+        "compression": true,
         "webhookToken": "d3e436a1a13c57d9d9226c3ccb847cac",
         "home_url": "http:\/\/localhost\/NewsCleanLife",
         "admin_url": "http:\/\/localhost\/NewsCleanLife\/wp-admin\/",
@@ -14,14 +14,14 @@
         "isLateIntegrationInitRequired": false,
         "isDlmActive": false,
         "isWoocommerceCacheHandlerActive": false,
-        "isWoocommerceActive": false,
+        "isWoocommerceActive": true,
         "isAeliaCurrencySwitcherActive": false,
         "dlm_downloading_url": null,
         "dlm_download_endpoint": null,
         "pluginVersion": "1.5.11",
         "options_cache": {
             "cache_handler_cache_handler": false,
-            "woocommerce_default_customer_address": false
+            "woocommerce_default_customer_address": "base"
         }
     },
     "config_path": "e231b5713e31e69c8cfa66436bf4bc61"

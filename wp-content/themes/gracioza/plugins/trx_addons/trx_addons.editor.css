@@ -1,0 +1,48 @@
+/* Theme-specific rules for the WP Editor */
+.trx_addons_dropcap {
+    font-size: 2.647em;
+    margin: 0.15em 0.45em 0 0;
+    width: 1.333em;
+    height: 1.333em;
+    line-height: 1.333em;
+    padding-left: 0.1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.trx_addons_dropcap.trx_addons_dropcap_style_2 {
+    font-size: 3.824em;
+    font-weight: 700;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    padding-left: 0;
+    width: auto;
+    height: auto;
+    line-height: 1;
+    margin-top: -0.05em;
+}
+ul.trx_addons_list_custom[class*="trx_addons_list"] {
+    text-transform: uppercase;
+    font-size: 16px;
+    padding-left: 0;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+}
+ul.trx_addons_list_custom[class*="trx_addons_list"] li {
+    padding-left: 2.3em;
+}
+ul.trx_addons_list_custom[class*="trx_addons_list"] li + li {
+    margin-top: 0.65em;
+    border-top: 1px solid;
+    padding-top: 0.9em;
+}
+ul[class*="trx_addons_list_custom"] > li:before {
+    font-family: fontello;
+    content: '\e922';
+    font-size: 15px;
+    left: 0.3em;
+}
+ul[class*="trx_addons_list_custom"] > li + li:before {
+    top: 0.95em;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML Sitemap -->
+        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url><loc>http://localhost/NewsCleanLife/shop/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url><url><loc>http://localhost/NewsCleanLife/cart/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url><url><loc>http://localhost/NewsCleanLife/checkout/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url><url><loc>http://localhost/NewsCleanLife/my-account/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url><url><loc>http://localhost/NewsCleanLife/uncategorized/hello-world/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url><url><loc>http://localhost/NewsCleanLife/sample-page/</loc><lastmod>2022-04-30</lastmod><changefreq>weekly</changefreq></url></urlset>
