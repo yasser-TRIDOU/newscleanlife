@@ -128,6 +128,10 @@ class Vc_Role_Access_Controller extends Vc_Access {
 		return $this;
 	}
 
+	public function getValidAccess() {
+		return $this->validAccess;
+	}
+
 	/**
 	 * Can user do what he doo.
 	 * Any rule has three types of state: true,false, string.

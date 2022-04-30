@@ -70,7 +70,7 @@ class Vc_Post_Admin {
 				$this->setPostMeta( $post_id );
 			}
 
-			visual_composer()->buildShortcodesCustomCss( $post_id );
+			wpbakery()->buildShortcodesCustomCss( $post_id );
 			wp_cache_flush();
 			ob_clean();
 
@@ -186,6 +186,6 @@ class Vc_Post_Admin {
 			$post_custom_css = wp_strip_all_tags( $post_custom_css );
 			update_metadata( 'post', $id, '_wpb_post_custom_css', $post_custom_css );
 		}
-		visual_composer()->buildShortcodesCustomCss( $id );
+		wpbakery()->buildShortcodesCustomCss( $id );
 	}
 }

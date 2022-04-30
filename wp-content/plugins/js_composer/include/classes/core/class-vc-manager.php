@@ -8,7 +8,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * Manager controls and access to all modules and classes of VC.
  *
- * @package WPBakeryVisualComposer
+ * @package WPBakery
  * @since   4.2
  */
 class Vc_Manager {

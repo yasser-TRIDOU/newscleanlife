@@ -22,7 +22,7 @@ class WPBakeryShortCode_Vc_Toggle extends WPBakeryShortCode {
 	 */
 	public function getHeading( $atts ) {
 		if ( isset( $atts['use_custom_heading'] ) && 'true' === $atts['use_custom_heading'] ) {
-			$custom_heading = visual_composer()->getShortCode( 'vc_custom_heading' );
+			$custom_heading = wpbakery()->getShortCode( 'vc_custom_heading' );
 
 			$data = vc_map_integrate_parse_atts( $this->shortcode, 'vc_custom_heading', $atts, 'custom_' );
 			$data['text'] = $atts['title'];

@@ -66,6 +66,10 @@ function vc_grid_item_render_preview() {
 		$vcGridPreview,
 		'addImageUrl',
 	) );
+	add_filter( 'vc_gitem_template_attribute_post_full_image_url_value', array(
+		$vcGridPreview,
+		'addImageUrl',
+	) );
 	add_filter( 'vc_gitem_template_attribute_post_image_html', array(
 		$vcGridPreview,
 		'addImage',

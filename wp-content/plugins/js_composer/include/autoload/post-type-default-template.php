@@ -115,7 +115,7 @@ class Vc_Setting_Post_Type_Default_Template_Field {
 	 * @return bool|\Vc_Templates_Panel_Editor
 	 */
 	protected function getTemplatesEditor() {
-		return visual_composer()->templatesPanelEditor();
+		return wpbakery()->templatesPanelEditor();
 	}
 
 	/**

@@ -225,6 +225,9 @@ class WPBakeryShortCode_Vc_Tta_Section extends WPBakeryShortCode_Vc_Tta_Accordio
 		}
 		$headingAttributes[] = 'class="' . implode( ' ', $headingClasses ) . '"';
 		$headingTag = apply_filters( 'vc_tta_section_param_heading_tag', 'h4', $atts );
+		if ( ! empty( self::$tta_base_shortcode->atts['section_title_tag'] ) ) {
+			$headingTag = self::$tta_base_shortcode->atts['section_title_tag'];
+		}
 
 		$output = '<' . $headingTag . ' ' . implode( ' ', $headingAttributes ) . '>';
 

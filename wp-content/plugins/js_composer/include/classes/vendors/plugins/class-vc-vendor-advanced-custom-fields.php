@@ -44,8 +44,20 @@ class Vc_Vendor_AdvancedCustomFields {
 			$this,
 			'mapEditorsShortcodes',
 		) );
+		add_filter( 'acf/ajax/shortcode_capability', array(
+			$this,
+			'acfAjaxShortcodeCapability',
+		) );
 
 		do_action( 'vc-vendor-acf-load', $this );
+	}
+
+	public function acfAjaxShortcodeCapability( $cap ) {
+		if ( isset( $_POST['_vcnonce'] ) && vc_verify_public_nonce() ) {
+			return 'exist';
+		}
+
+		return $cap;
 	}
 
 	/**

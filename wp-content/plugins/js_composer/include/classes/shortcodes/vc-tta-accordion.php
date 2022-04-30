@@ -57,7 +57,7 @@ class WPBakeryShortCode_Vc_Tta_Accordion extends WPBakeryShortCodesContainer {
 	 * @throws \Exception
 	 */
 	public function setGlobalTtaInfo() {
-		$sectionClass = visual_composer()->getShortCode( 'vc_tta_section' )->shortcodeClass();
+		$sectionClass = wpbakery()->getShortCode( 'vc_tta_section' )->shortcodeClass();
 		$this->sectionClass = $sectionClass;
 
 		/** @var WPBakeryShortCode_Vc_Tta_Section $sectionClass */
@@ -231,7 +231,12 @@ class WPBakeryShortCode_Vc_Tta_Accordion extends WPBakeryShortCodesContainer {
 	 */
 	public function getParamTitle( $atts, $content ) {
 		if ( isset( $atts['title'] ) && strlen( $atts['title'] ) > 0 ) {
-			return '<h2>' . $atts['title'] . '</h2>';
+			$tag = 'h2';
+			if ( isset( $atts['title_tag'] ) ) {
+				$tag = $atts['title_tag'];
+			}
+
+			return '<' . $tag . '>' . esc_html( $atts['title'] ) . '</' . $tag . '>';
 		}
 
 		return null;

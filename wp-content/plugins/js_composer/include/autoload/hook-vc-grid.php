@@ -132,7 +132,7 @@ class Vc_Hooks_Vc_Grid {
 		$tag = str_replace( '.', '', vc_request_param( 'tag' ) );
 		$allowed = apply_filters( 'vc_grid_get_grid_data_access', vc_verify_public_nonce() && $tag, $tag );
 		if ( $allowed ) {
-			$shortcode_fishbone = visual_composer()->getShortCode( $tag );
+			$shortcode_fishbone = wpbakery()->getShortCode( $tag );
 			if ( is_object( $shortcode_fishbone ) && vc_get_shortcode( $tag ) ) {
 				/** @var WPBakeryShortcode_Vc_Basic_Grid $vc_grid */
 				$vc_grid = $shortcode_fishbone->shortcodeClass();

@@ -249,7 +249,7 @@ class Vc_Grid_Item {
 		} else {
 			$predefined_template = $this->predefinedTemplate( $id );
 			if ( $predefined_template ) {
-				$shortcodes_custom_css = visual_composer()->parseShortcodesCustomCss( $predefined_template['template'] );
+				$shortcodes_custom_css = wpbakery()->parseShortcodesCustomCss( $predefined_template['template'] );
 			}
 		}
 		if ( ! empty( $shortcodes_custom_css ) ) {

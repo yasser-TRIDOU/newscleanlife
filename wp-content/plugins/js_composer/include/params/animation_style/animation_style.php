@@ -485,7 +485,12 @@ class Vc_ParamAnimation {
 				$build_style_select .= '<optgroup ' . ( isset( $style['label'] ) ? 'label="' . esc_attr( $style['label'] ) . '"' : '' ) . '>';
 				if ( is_array( $style['values'] ) && ! empty( $style['values'] ) ) {
 					foreach ( $style['values'] as $key => $value ) {
-						$build_style_select .= '<option value="' . ( is_array( $value ) ? $value['value'] : $value ) . '">' . esc_html( $key ) . '</option>';
+						$selected = '';
+						$option_value = is_array( $value ) ? $value['value'] : $value;
+						if ( $option_value === $this->value ) {
+							$selected = 'selected="selected"';
+						}
+						$build_style_select .= '<option value="' . ( $option_value ) . '" ' . $selected . '>' . esc_html( $key ) . '</option>';
 					}
 				}
 				$build_style_select .= '</optgroup>';
