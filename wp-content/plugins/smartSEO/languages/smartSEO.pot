@@ -1,0 +1,2692 @@
+# Copyright (C) 2021 AA-Team
+# This file is distributed under the same license as the smart SEO - Wordpress plugin plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: smart SEO - Wordpress plugin 3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smartSEO\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-24T22:58:17+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: smartSEO\n"
+
+#. Plugin Name of the plugin
+msgid "smart SEO - Wordpress plugin"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://codecanyon.net/item/premium-seo-pack-wordpress-plugin/6109437"
+msgstr ""
+
+#. Description of the plugin
+msgid "Smart SEO (Search Engine Optimization - Wordpress plugin) - The easyest way to optimize your wordpress website for search engines!"
+msgstr ""
+
+#. Author of the plugin
+msgid "AA-Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/AA-Team/portfolio"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:539
+#: aa-framework/ajax-list-table.php:694
+msgid "All"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:540
+msgid "Published"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:541
+msgid "Draft"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:542
+msgid "Scheduled"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:543
+msgid "Private"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:544
+msgid "Pending Review"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:695
+msgid "Smushed"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:696
+msgid "Not processed"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:697
+msgid "With errors"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:787
+#: aa-framework/ajax-list-table.php:838
+#: aa-framework/ajax-list-table.php:895
+#: aa-framework/ajax-list-table.php:923
+#: aa-framework/ajax-list-table.php:1242
+#: aa-framework/ajax-list-table.php:1244
+#: aa-framework/ajax-list-table.php:1351
+msgid "Show All"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:790
+msgid "per page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:796
+msgid "items"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:799
+msgid "Go to the first page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:800
+msgid "Go to the previous page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:801
+msgid "Current page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:801
+#: modules/title_meta_format/options.php:387
+msgid "of"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:802
+msgid "Go to the next page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:803
+msgid "Go to the last page"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:885
+msgid "Search Posts"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1006
+#: aa-framework/utils/buddypress.php:183
+msgid "Search"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1039
+#: aa-framework/ajax-list-table.php:1756
+msgid "Auto detect focus keyword for All"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1040
+#: aa-framework/ajax-list-table.php:1757
+msgid "Optimize All"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1146
+msgid "SEO Report"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1149
+#: modules/on_page_optimization/init.php:1314
+msgid "Auto detect"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1163
+#: aa-framework/ajax-list-table.php:1181
+#: aa-framework/ajax-list-table.php:1640
+msgid "View"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1180
+msgid "Edit this item inline"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1180
+msgid "Quick Edit"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1281
+msgid "errors occured during smushit operation!"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1291
+msgid "not processed!"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1380
+#: aa-framework/ajax-list-table.php:1402
+msgid "Custom URL"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1381
+#: aa-framework/ajax-list-table.php:1403
+msgid "Regexp"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1416
+msgid "Never Checked"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1419
+msgid "**"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1424
+msgid "Valid"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1427
+msgid "Invalid"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1489
+msgid "Submit website"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1492
+msgid "Never submited"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1494
+msgid "Submit in progress"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1496
+msgid "Error on submit"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1498
+msgid "Submit successfully"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1535
+msgid "View report"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1575
+msgid "Not in top"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1645
+msgid "New"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1646
+msgid "Finished"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1647
+msgid "Running"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1648
+msgid "Error"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1695
+#: aa-framework/ajax-list-table.php:1702
+msgid "ON"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1696
+#: aa-framework/ajax-list-table.php:1703
+msgid "OFF"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1717
+msgid "Everyone"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1718
+msgid "All Friends"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1719
+msgid "Networks Friends"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1720
+msgid "Friends of Friends"
+msgstr ""
+
+#: aa-framework/ajax-list-table.php:1721
+msgid "Private (only me)"
+msgstr ""
+
+#: aa-framework/framework.class.php:908
+msgid "Options updated successfully"
+msgstr ""
+
+#: aa-framework/framework.class.php:975
+msgid "Invalid install default json string, can't parse it!"
+msgstr ""
+
+#: aa-framework/framework.class.php:1005
+msgid "Install default successful"
+msgstr ""
+
+#: aa-framework/framework.class.php:1093
+msgid "invalid section want to load!"
+msgstr ""
+
+#: aa-framework/framework.class.php:1235
+msgid "Invalid CSS path to file: <strong>%s</strong>. Call in: %s"
+msgstr ""
+
+#: aa-framework/framework.class.php:1414
+msgid "Invalid JS path to file: <strong>%s</strong> . Call in: %s"
+msgstr ""
+
+#: aa-framework/framework.class.php:1441
+msgid "smartSEO - Dashboard"
+msgstr ""
+
+#: aa-framework/framework.class.php:1442
+msgid "smartSEO"
+msgstr ""
+
+#: aa-framework/framework.class.php:2181
+msgid "Highest priority"
+msgstr ""
+
+#: aa-framework/framework.class.php:2183
+msgid "Medium priority"
+msgstr ""
+
+#: aa-framework/framework.class.php:2185
+msgid "Lowest priority"
+msgstr ""
+
+#: aa-framework/framework.class.php:2202
+#: modules/on_page_optimization/init.php:1619
+#: modules/on_page_optimization/init.php:1629
+#: modules/title_meta_format/options.php:36
+#: modules/title_meta_format/options.php:182
+msgid "Meta Description"
+msgstr ""
+
+#: aa-framework/framework.class.php:2203
+#: modules/on_page_optimization/init.php:1632
+#: modules/on_page_optimization/init.php:1641
+#: modules/title_meta_format/options.php:43
+#: modules/title_meta_format/options.php:183
+msgid "Meta Keywords"
+msgstr ""
+
+#: aa-framework/framework.class.php:2226
+msgid "Meta Title:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2232
+msgid "Canonical URL:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2240
+msgid "Meta Robots Index:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2242
+#: aa-framework/framework.class.php:2262
+#: modules/on_page_optimization/init.php:2210
+#: modules/on_page_optimization/init.php:2268
+#: modules/on_page_optimization/init.php:2301
+msgid "Default Setting"
+msgstr ""
+
+#: aa-framework/framework.class.php:2243
+msgid "Index"
+msgstr ""
+
+#: aa-framework/framework.class.php:2244
+msgid "NO Index"
+msgstr ""
+
+#: aa-framework/framework.class.php:2250
+msgid "Meta Robots Follow:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2260
+msgid "Include in Sitemap:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2263
+msgid "Always include"
+msgstr ""
+
+#: aa-framework/framework.class.php:2264
+msgid "Never include"
+msgstr ""
+
+#: aa-framework/framework.class.php:2270
+msgid "Sitemap Priority:"
+msgstr ""
+
+#: aa-framework/framework.class.php:2285
+msgid "Cancel"
+msgstr ""
+
+#: aa-framework/framework.class.php:2286
+msgid "Save"
+msgstr ""
+
+#: aa-framework/framework.class.php:2763
+msgid "AA Social Share notice: you already use smartSEO - Social Stats module, Social Sharing section"
+msgstr ""
+
+#: aa-framework/framework.class.php:3039
+msgid "The Buddypress installation it's not finished!"
+msgstr ""
+
+#: aa-framework/framework.class.php:3073
+msgid "<strong>smartSEO</strong> | "
+msgstr ""
+
+#: aa-framework/framework.class.php:3662
+msgid "Check plugin tables: error requesting tables list."
+msgstr ""
+
+#: aa-framework/framework.class.php:3685
+msgid "Check plugin tables: all installed ( %s )."
+msgstr ""
+
+#: aa-framework/framework.class.php:3692
+msgid "Check plugin tables: missing ( %s )."
+msgstr ""
+
+#: aa-framework/framework.class.php:3943
+msgid "Check plugin tables (alter): OK."
+msgstr ""
+
+#: aa-framework/framework.class.php:4283
+msgid "Go Back to the plugin facebook planner module and try again."
+msgstr ""
+
+#: aa-framework/framework.class.php:4294
+#: aa-framework/framework.class.php:4359
+#: modules/server_status/init.php:344
+msgid "Authorize app"
+msgstr ""
+
+#: aa-framework/framework.class.php:4399
+msgid "Authorize this app again"
+msgstr ""
+
+#: aa-framework/framework.class.php:4429
+msgid "Authorizate app"
+msgstr ""
+
+#: aa-framework/framework.class.php:4887
+msgid "missing focus keyword"
+msgstr ""
+
+#: aa-framework/framework.class.php:4889
+msgid "missing focus keyword - you must create one..."
+msgstr ""
+
+#: aa-framework/framework.class.php:4910
+#: aa-framework/utils/social_sharing.php:170
+msgid "Facebook"
+msgstr ""
+
+#: aa-framework/framework.class.php:4912
+#: aa-framework/framework.class.php:4915
+#: aa-framework/framework.class.php:4940
+msgid "shares"
+msgstr ""
+
+#: aa-framework/framework.class.php:4919
+msgid "likes"
+msgstr ""
+
+#: aa-framework/framework.class.php:4923
+msgid "comments"
+msgstr ""
+
+#: aa-framework/framework.class.php:4933
+#: aa-framework/utils/social_sharing.php:176
+msgid "Twitter"
+msgstr ""
+
+#: aa-framework/framework.class.php:4935
+msgid "retweets"
+msgstr ""
+
+#: aa-framework/framework.class.php:4938
+msgid "Google +1"
+msgstr ""
+
+#: aa-framework/framework.class.php:4943
+#: aa-framework/utils/social_sharing.php:174
+msgid "Pinterest"
+msgstr ""
+
+#: aa-framework/framework.class.php:4945
+msgid "pins"
+msgstr ""
+
+#: aa-framework/framework.class.php:4948
+msgid "Stumbleupon"
+msgstr ""
+
+#: aa-framework/framework.class.php:4950
+msgid "views"
+msgstr ""
+
+#: aa-framework/framework.class.php:4953
+#: aa-framework/utils/social_sharing.php:172
+msgid "Linkedin"
+msgstr ""
+
+#: aa-framework/framework.class.php:4955
+msgid "backlinks"
+msgstr ""
+
+#: aa-framework/framework.class.php:4958
+msgid "Delicious"
+msgstr ""
+
+#: aa-framework/framework.class.php:4960
+#: aa-framework/framework.class.php:4965
+#: aa-framework/framework.class.php:4970
+#: aa-framework/framework.class.php:4975
+msgid "posts"
+msgstr ""
+
+#: aa-framework/framework.class.php:4963
+#: aa-framework/utils/social_sharing.php:175
+msgid "Buffer"
+msgstr ""
+
+#: aa-framework/framework.class.php:4968
+#: aa-framework/utils/social_sharing.php:178
+msgid "Reddit"
+msgstr ""
+
+#: aa-framework/framework.class.php:4973
+#: aa-framework/utils/social_sharing.php:177
+msgid "Flattr"
+msgstr ""
+
+#: aa-framework/menu.php:62
+msgid "Plugin depedencies"
+msgstr ""
+
+#: aa-framework/menu.php:74
+#: modules/dashboard/config.php:15
+#: modules/on_page_optimization/init.php:832
+msgid "Dashboard"
+msgstr ""
+
+#: aa-framework/menu.php:84
+#: modules/on_page_optimization/config.php:17
+#: modules/on_page_optimization/config.php:24
+#: modules/on_page_optimization/init.php:491
+#: modules/on_page_optimization/init.php:492
+#: modules/server_status/init.php:274
+msgid "Settings"
+msgstr ""
+
+#: aa-framework/menu.php:92
+#: modules/title_meta_format/config.php:16
+msgid "Title & Meta Format"
+msgstr ""
+
+#: aa-framework/menu.php:101
+msgid "Plugin Settings"
+msgstr ""
+
+#: aa-framework/menu.php:107
+#: modules/setup_backup/config.php:16
+msgid "Import"
+msgstr ""
+
+#: aa-framework/menu.php:114
+#: modules/server_status/config.php:18
+msgid "Server Status"
+msgstr ""
+
+#: aa-framework/menu.php:123
+msgid "Collapse menu"
+msgstr ""
+
+#: aa-framework/shortcodes/shortcodes.init.php:102
+msgid "Premium SEO Pack Shortcodes"
+msgstr ""
+
+#: aa-framework/shortcodes/tinymce.popup.php:130
+msgid "Reset to default value"
+msgstr ""
+
+#: aa-framework/shortcodes/tinymce.popup.php:131
+msgid "Insert shortcode"
+msgstr ""
+
+#: aa-framework/shortcodes/tinymce.popup.php:143
+msgid "Error occured!"
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:126
+msgid "Google"
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:130
+msgid "Bing"
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:154
+msgid " couldn't be notified!"
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:172
+msgid " couldn't be notified | invalid response received!"
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:179
+msgid " was notified successfully on %1$s | ping duration: %2$s seconds."
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:328
+#: aa-framework/utils/action_admin_ajax.php:390
+msgid "number of files in cache: %d | date: %s."
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:479
+msgid "last operation: %s | execution date: %s."
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:566
+msgid "Last time: "
+msgstr ""
+
+#: aa-framework/utils/action_admin_ajax.php:566
+msgid " %1$s video metas deleted | data: %2$s | duration: %3$s seconds."
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:37
+msgid "Group Directory"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:42
+msgid "Group Home"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:47
+msgid "Group Forum"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:52
+msgid "Group Forum Topic"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:57
+msgid "Group Members"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:62
+msgid "Profile Groups"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:69
+msgid "Activity Directory"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:74
+msgid "Group Activity"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:79
+msgid "Activity Home"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:84
+msgid "Activity Mentions"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:89
+msgid "Activity Favorites"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:94
+msgid "Activity Friends"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:99
+msgid "Profile Activity"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:106
+msgid "Members Directory"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:114
+msgid "Profile Home"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:121
+msgid "Blogs Directory"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:126
+msgid "Profile Blogs"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:135
+msgid "Profile Forums"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:140
+msgid "Profile Forums Replies"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:145
+msgid "Profile Forums Favorites"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:154
+msgid "Profile Friends"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:175
+msgid "Create an Account"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:179
+msgid "Activate your Account"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:447
+#: aa-framework/utils/buddypress.php:450
+#: aa-framework/utils/buddypress.php:453
+#: aa-framework/utils/buddypress.php:456
+#: aa-framework/utils/buddypress.php:459
+msgid "Buddy Press"
+msgstr ""
+
+#: aa-framework/utils/buddypress.php:508
+msgid "Component: <u>%1$s</u> ; Action: <u>%2$s</u>"
+msgstr ""
+
+#: aa-framework/utils/import_seodata.php:177
+msgid "Total posts todo: %s."
+msgstr ""
+
+#: aa-framework/utils/import_seodata.php:335
+msgid "Post IDs done at this step: <strong>%s</strong>."
+msgstr ""
+
+#: aa-framework/utils/import_seodata.php:336
+msgid "Total number of posts updated: <strong>%s</strong>."
+msgstr ""
+
+#: aa-framework/utils/import_seodata.php:337
+msgid "Total number of posts optimized: <strong>%s</strong>."
+msgstr ""
+
+#: aa-framework/utils/plugin_utils.php:257
+msgid "View Documentation"
+msgstr ""
+
+#: aa-framework/utils/plugin_utils.php:257
+msgid "Docs"
+msgstr ""
+
+#: aa-framework/utils/plugin_utils.php:258
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: aa-framework/utils/plugin_utils.php:258
+msgid "Support Forum"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:150
+#: modules/on_page_optimization/init.php:2211
+#: modules/on_page_optimization/init.php:2269
+msgid "None"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:151
+msgid "Floating Toolbar"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:152
+msgid "Content Top / Bottom Toolbar"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:153
+msgid "Content Left / Right Toolbar"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:157
+msgid "Homepage"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:158
+msgid "Posts Front Page"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:159
+msgid "Posts"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:160
+msgid "Pages"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:161
+msgid "Category Pages"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:162
+msgid "Tag Pages"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:163
+msgid "Archive Pages"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:168
+msgid "Print"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:169
+msgid "Email"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:171
+msgid "Plusone"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:173
+msgid "Stumble Upon"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:179
+msgid "Digg"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:180
+msgid "Xing"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:181
+msgid "Tumblr"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:221
+msgid "Enabled:"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:224
+#: modules/server_status/init.php:229
+#: modules/server_status/init.php:282
+msgid "No"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:225
+#: modules/server_status/init.php:227
+#: modules/server_status/init.php:282
+msgid "Yes"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:254
+msgid "Toolbar showing areas:"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:255
+msgid "areas where you want the social share toolbar to appear"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:264
+msgid "Exclude toolbar on categories:"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:265
+msgid "categories where you don't want the social share toolbar to appear (also all posts belonging to these categories will not have the toolbar)"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:337
+msgid "Position: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:384
+msgid "Margin: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:400
+msgid "px"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:423
+msgid "Buttons size"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:424
+msgid "View count"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:425
+msgid "With More button"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:429
+msgid "Buttons options: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:468
+msgid "Include/Exclude toolbar on Post, Pages: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:505
+msgid "Make it floating"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:506
+msgid "Background color"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:507
+msgid "Floating beyond the end of the post content"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:511
+msgid "Design: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:572
+msgid "Toolbar buttons: "
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:579
+msgid "Available buttons"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:585
+#: aa-framework/utils/social_sharing.php:600
+msgid "x"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:594
+msgid "Selected buttons"
+msgstr ""
+
+#: aa-framework/utils/social_sharing.php:624
+msgid "Info details: "
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:69
+#: modules/on_page_optimization/init.php:1289
+msgid "Title"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:70
+msgid "Title should be concise and will be truncated at 70 characters."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:76
+#: aa-framework/utils/twitter_cards.php:297
+msgid "Description"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:77
+msgid "A description that concisely summarizes the content of the page, as appropriate for presentation within a Tweet. Do not re-use the title text as the description, or use this field to describe the general services provided by the website. Description text will be truncated at the word to 200 characters."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:84
+msgid "Image"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:85
+msgid "URL to a unique image representing the content of the page. Do not use a generic image such as your website logo, author photo, or other image that spans multiple pages. The image must be a minimum size of 120x120px. Images larger than 120x120px will be resized and cropped square based on its longest dimension. Images must be less than 1MB in size."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:107
+msgid "URL to a unique image representing the content of the page. Do not use a generic image such as your website logo, author photo, or other image that spans multiple pages. Images for this Card should be at least 280px in width, and at least 150px in height. Image must be less than 1MB in size."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:120
+#: aa-framework/utils/twitter_cards.php:155
+msgid "The title of your content as it should appear in the card. You may specify an empty string if you wish no title to render."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:130
+#: aa-framework/utils/twitter_cards.php:246
+msgid "A URL to the image representing the content. Image must be less than 1MB in size."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:135
+msgid "Image Width"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:136
+msgid "Providing width in px helps us more accurately preserve the aspect ratio of the image when resizing."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:141
+msgid "Image Height"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:142
+msgid "Providing height in px helps us more accurately preserve the aspect ratio of the image when resizing."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:162
+msgid "Image 0"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:163
+#: aa-framework/utils/twitter_cards.php:171
+#: aa-framework/utils/twitter_cards.php:179
+#: aa-framework/utils/twitter_cards.php:187
+msgid "A URL to the image representing the first photo in your gallery. Image must be less than 1MB in size."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:170
+msgid "Image 1"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:178
+msgid "Image 2"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:186
+msgid "Image 3"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:201
+msgid "Image to be displayed in place of the player on platforms that don't support iframes or inline players. You should make this image the same dimensions as your player. Images with fewer than 68,600 pixels (a 262x262 square image, or a 350x196 16:9 image) will cause the player card not to render. Image must be less than 1MB in size."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:206
+msgid "Player"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:207
+msgid "HTTPS URL to iFrame player. This must be a HTTPS URL which does not generate active mixed content warnings in a web browser. The audio or video player must not require plugins such as Adobe Flash."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:212
+msgid "Player width"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:213
+msgid "Width of IFRAME specified in twitter:player in pixels"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:218
+msgid "Player height"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:219
+msgid "Height of IFRAME specified in twitter:player in pixels"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:224
+msgid "Player stream"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:225
+msgid ""
+"URL to raw stream that will be rendered\n"
+"in Twitter's mobile applications directly. If provided, the stream must be delivered in the MPEG-4 container format (the .mp4 extension). The container can store a mix of audio and video with the following codecs:\n"
+"Video: H.264, Baseline Profile (BP), Level 3.0, up to 640 x 480 at 30 fps.\n"
+"Audio: AAC, Low Complexity Profile (LC)"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:233
+msgid "Player stream content type"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:234
+msgid "The MIME type/subtype combination that describes the content contained in twitter:player:stream. Takes the form specified in RFC 6381. Currently supported content_type values are those defined in RFC 4337 (MIME Type Registration for MP4)."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:251
+msgid "Image width"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:252
+msgid "Providing width in px helps us more accurately preserve the the aspect ratio of the image when resizing."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:257
+msgid "Image height"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:258
+msgid "Providing height in px helps us more accurately preserve the the aspect ratio of the image when resizing."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:263
+msgid "Data 1"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:264
+#: aa-framework/utils/twitter_cards.php:276
+msgid "This field expects a string, and you can specify values for labels such as price, items in stock, sizes, etc."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:269
+msgid "Label 1"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:270
+#: aa-framework/utils/twitter_cards.php:282
+msgid "This field also expects a string, and allows you to specify the types of data you want to offer (price, country, etc.)."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:275
+msgid "Data 2"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:281
+msgid "Label 2"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:298
+msgid "You can use this as a more concise description than what you may have on the app store. This field has a maximum of 200 characters."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:303
+msgid "App Name Iphone"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:304
+#: aa-framework/utils/twitter_cards.php:310
+#: aa-framework/utils/twitter_cards.php:316
+msgid "Your app's name."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:309
+msgid "App Name Ipad"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:315
+msgid "App Name Googleplay"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:321
+msgid "App Id Iphone"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:322
+msgid "String value, and should be the numeric representation of your app ID in the App Store (.i.e. \"307234931\").."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:327
+msgid "App Id Ipad"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:328
+msgid "String value, should be the numeric representation of your app ID in the App Store (.i.e. \"307234931\").\t."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:333
+msgid "App Id Googleplay"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:334
+msgid "String value, and should be the numeric representation of your app ID in Google Play (.i.e. \"com.android.app\")."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:339
+msgid "App Url Iphone"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:340
+msgid "Your app's custom URL scheme (you must include \"://\" after your scheme name)."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:345
+msgid "App Url Ipad"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:346
+#: aa-framework/utils/twitter_cards.php:352
+msgid "Your app's custom URL scheme."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:351
+msgid "App Url Googleplay"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:357
+msgid "Country"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:358
+msgid "If your application is not available in the US App Store, you must set this value to the two-letter country code for the App Store that contains your application."
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:421
+msgid "Upload image"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:435
+msgid "%s Twitter Card Options"
+msgstr ""
+
+#: aa-framework/utils/twitter_cards.php:435
+msgid "Twitter Cards: "
+msgstr ""
+
+#: lib/scripts/plugin-depedencies/plugin_depedencies.php:67
+#: lib/scripts/plugin-depedencies/plugin_depedencies.php:68
+msgid " Depedencies"
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:118
+msgid "Invalid Post ID"
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:616
+msgid "Bad, please create a SEO title."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:617
+msgid "Bad, you have a SEO title, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:618
+msgid "Bad, the SEO title contains %1$d characters, which is less than the recommended minimum of %2$d characters."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:619
+msgid "Bad, the SEO title contains %1$d characters, which is more than the viewable limit of %2$d characters."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:620
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the SEO title."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:621
+msgid "Poor, the SEO title contains between %1\\$d and %2\\$d characters and contains your focus keyword, but it doesn't begin with it."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:622
+msgid "Great, the SEO title contains between %1$d and %2$d characters and also it begins with your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:711
+msgid "Enough words - Bad, please create a SEO title."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:712
+msgid "Bad, the SEO title contains %1$d allowed words, which is less than the recommended minimum of %2$d words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:713
+msgid "Great, the SEO title contains %1$d allowed words and the recommended minimum is %2$d words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:758
+msgid "Bad, please create a page title."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:759
+msgid "Bad, you have a page title, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:761
+msgid "Bad, the page title contains %1\\$d characters and it's not between %2\\$d and %3\\$d characters, which is the recommended interval."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:762
+msgid "Poor, the page title contains %1\\$d characters and it's not between %2\\$d and %3\\$d characters, which is the recommended interval."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:763
+msgid "Great, the page title contains %1\\$d characters and it's between %2\\$d and %3\\$d characters, which is the recommended interval."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:765
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the page title."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:766
+msgid "Poor, the page title contains your focus keyword, but it doesn't begin with it."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:767
+msgid "Great, the page title begins with your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:855
+msgid "Bad, please create a page meta description."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:856
+msgid "Bad, you have a page meta description, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:857
+msgid "Bad, the page meta description contains %1$d characters, which is less than the recommended minimum of %2$d characters."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:858
+msgid "Bad, the page meta description contains %1$d characters, which is more than the viewable limit of %2$d characters."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:859
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the page meta description."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:860
+msgid "Poor, the meta description contains between %1\\$d and %2\\$d characters and contains your focus keyword, but it doesn't begin with it."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:861
+msgid "Great, the meta description contains between %1$d and %2$d characters and also it begins with your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:934
+msgid "Bad, please create the page meta keywords."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:935
+msgid "Bad, you have the page meta keywords, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:936
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the page meta keywords."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:937
+msgid "Great, the page meta keywords contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:989
+msgid "Bad, please create a page permalink."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:990
+msgid "Bad, you have a page permalink, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:991
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the page permalink."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:992
+msgid "Great, the page permalink contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1043
+msgid "Bad, please create at least one paragraph in the page content."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1044
+msgid "Bad, you have at least one paragraph in the page content, but you must create a focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1045
+msgid "Bad, the focus keyword <strong>%s</strong> does not appear in the page content first paragraph."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1046
+msgid "Great, the page content first paragraph contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1094
+msgid "Embedded content - Bad, please add some content for your web page."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1095
+msgid "Bad, frames can cause problems on your web page because search engines will not crawl or index the content within them."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1096
+msgid "Bad, iframes can cause problems on your web page because search engines will not crawl or index the content within them."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1097
+msgid "Bad, flash can cause problems on your web page because search engines will not crawl or index the content within them."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1098
+msgid "Bad, video can cause problems on your web page because search engines will not crawl or index the content within them."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1099
+msgid "Great, your web page content don't have any embedded content <i>(frame, iframe, object, embed or HTML5 video)</i>."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1170
+msgid "Enough words - Bad, please add some content for the page."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1171
+msgid "Bad, the page content contains %1$d allowed words, which is less than the recommended minimum of %2$d words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1172
+msgid "Great, the page content contains %1$d allowed words and the recommended minimum is %2$d words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1213
+msgid "Bad, the page content has no images."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1214
+msgid "Bad, the page content has %1$d images, but %2$d images contains your focus keyword in alt attribute."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1215
+msgid "Poor, the page content has %1$d images and %2$d images contains an alt attribute."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1216
+msgid "Great, the page content has %1$d images and %2$d images contains your focus keyword in alt attribute."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1285
+msgid "Bad, the page content has no bold elements."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1286
+msgid "Bad, the page content has %d bold elements, but none of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1287
+msgid "Great, the page content has %d bold elements and at least 1 of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1331
+msgid "Bad, the page content has no italic elements."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1332
+msgid "Bad, the page content has %d italic elements and none of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1333
+msgid "Great, the page content has %d italic elements and at least 1 of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1377
+msgid "Bad, the page content has no underlined elements."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1378
+msgid "Bad, the page content has %d underlined elements and none of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1379
+msgid "Great, the page content has %d underlined elements and at least 1 of them contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1423
+msgid "Bad, the page content has no subheading tags (h1, h2, h3)."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1424
+msgid "Bad, the page content has %1$d &lt;h1&gt;, %2$d &lt;h2&gt;, %3$d &lt;h3&gt; subheading tags and %4$d &lt;h1&gt;, %5$d &lt;h2&gt;, %6$d &lt;h3&gt; subheading tags contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1425
+msgid "Poor, the page content has %1$d &lt;h1&gt;, %2$d &lt;h2&gt;, %3$d &lt;h3&gt; subheading tags and %4$d &lt;h1&gt;, %5$d &lt;h2&gt;, %6$d &lt;h3&gt; subheading tags contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1426
+msgid "Ok, the page content has %1$d &lt;h1&gt;, %2$d &lt;h2&gt;, %3$d &lt;h3&gt; subheading tags and %4$d &lt;h1&gt;, %5$d &lt;h2&gt;, %6$d &lt;h3&gt; subheading tags contains your focus keyword."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1427
+msgid "Great, the page content has %1$d &lt;h1&gt;, %2$d &lt;h2&gt;, %3$d &lt;h3&gt; subheading tags and %4$d &lt;h1&gt;, %5$d &lt;h2&gt;, %6$d &lt;h3&gt; subheading tags contains your focus keyword. Also your focus keyword appears at the begining in the &lt;h1&gt; tag."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1518
+msgid "First 100 words - Bad, please add some content for the page."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1519
+msgid "Bad, the page content doesn't contains your focus keyword in the first 100 words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1520
+msgid "Great, the page content contains your focus keyword in the first 100 words ( the number of focus keyword occurences is %d )."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1561
+msgid "Last 100 words - Bad, please add some content for the page."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1562
+msgid "Bad, the page content doesn't contains your focus keyword in the last 100 words."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1563
+msgid "Great, the page content contains your focus keyword in the last 100 words ( the number of focus keyword occurences is %d )."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1601
+msgid "Bad, the page content has no external links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1602
+msgid "Bad, the page content has %1$d external dofollow links and %2$d external nofollow links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1603
+msgid "Poor, the page content has %1$d external dofollow links and %2$d external nofollow links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1604
+msgid "Great, the page content has %d external links and none of them are nofollow."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1647
+msgid "Bad, the page content has no internal links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1648
+msgid "Bad, the page content has %1$d internal dofollow links and %2$d internal nofollow links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1649
+msgid "Poor, the page content has %1$d internal dofollow links and %2$d internal nofollow links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1650
+msgid "Great, the page content has %d internal links and none of them are nofollow."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1693
+msgid "Competing Links - the page content has no links."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1694
+msgid "Bad, the page content has %1\\$d potential competing links (which contains your focus keyword): <ul class='psp-competing-links'><li>%2\\$s</li></ul>"
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1695
+msgid "Great, the page content doesn't have any potential competing links (which contains your focus keyword)."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1743
+msgid "Keyword density - Bad, please add some content for the page."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1744
+msgid "Bad, keyword density is 0%%, because the focus keyword <strong>%s</strong> does not appear in the page content."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1745
+msgid "Bad, keyword density is %1\\$.1f%% and it's not between %2\\$.1f%% and %3\\$.1f%%, which is the recommended interval. Your page content has %4\\$d allowed words and the number of focus keyword occurences in the content is %5\\$d."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1746
+msgid "Poor, keyword density is %1\\$.1f%% and it's not between %2\\$.1f%% and %3\\$.1f%%, which is the recommended interval. Your page content has %4\\$d allowed words and the number of focus keyword occurences in the content is %5\\$d."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1747
+msgid "Great, keyword density is %1\\$.1f%% and it's between %2\\$.1f%% and %3\\$.1f%%, which is the recommended interval. Your page content has %4\\$d allowed words and the number of focus keyword occurences in the content is %5\\$d."
+msgstr ""
+
+#: lib/scripts/seo-check-class/seo.class.php:1749
+msgid "You need between %1$d and %2$d focus keyword occurences in the page content to be situated in the recommended interval."
+msgstr ""
+
+#: lib/scripts/serp/serp.api.class.php:138
+msgid "You've reached the maximum allowed number of requests for this day."
+msgstr ""
+
+#: lib/scripts/serp/serp.api.class.php:165
+msgid "cache file is empty!"
+msgstr ""
+
+#: modules/dashboard/ajax.php:53
+msgid "in the World"
+msgstr ""
+
+#: modules/dashboard/ajax.php:88
+#: modules/depedencies/ajax.php:44
+msgid "Charset"
+msgstr ""
+
+#: modules/dashboard/ajax.php:106
+#: modules/depedencies/ajax.php:62
+msgid "Server Software"
+msgstr ""
+
+#: modules/dashboard/ajax.php:111
+#: modules/depedencies/ajax.php:67
+msgid "Server Admin"
+msgstr ""
+
+#: modules/dashboard/ajax.php:116
+#: modules/depedencies/ajax.php:72
+msgid "Server Signature"
+msgstr ""
+
+#: modules/dashboard/ajax.php:137
+#: modules/depedencies/ajax.php:93
+msgid "Server IP"
+msgstr ""
+
+#: modules/dashboard/ajax.php:142
+#: modules/depedencies/ajax.php:98
+msgid "Country Name"
+msgstr ""
+
+#: modules/dashboard/ajax.php:147
+#: modules/depedencies/ajax.php:103
+msgid "Country Code"
+msgstr ""
+
+#: modules/dashboard/ajax.php:152
+#: modules/depedencies/ajax.php:108
+msgid "Country City"
+msgstr ""
+
+#: modules/depedencies/config.php:15
+msgid "Plugin Depedencies"
+msgstr ""
+
+#: modules/frontend/config.php:16
+msgid "Frontend"
+msgstr ""
+
+#: modules/frontend/config.php:19
+msgid "Using this module you can display meta tags in frontend!"
+msgstr ""
+
+#: modules/modules_manager/aaModulesManager.class.php:75
+#: modules/on_page_optimization/init.php:800
+#: modules/on_page_optimization/init.php:977
+#: modules/on_page_optimization/init.php:1247
+#: modules/on_page_optimization/init.php:1441
+#: modules/server_status/init.php:127
+msgid "Loading"
+msgstr ""
+
+#: modules/modules_manager/aaModulesManager.class.php:140
+msgid "Core Modules, can't be deactivated!"
+msgstr ""
+
+#: modules/modules_manager/aaModulesManager.class.php:143
+msgid "Activate"
+msgstr ""
+
+#: modules/modules_manager/aaModulesManager.class.php:146
+msgid "read more"
+msgstr ""
+
+#: modules/modules_manager/config.php:16
+#: modules/modules_manager/options.php:18
+msgid "Modules Manager"
+msgstr ""
+
+#: modules/modules_manager/config.php:20
+msgid "Using this module you can activate / deactivate plugin modules."
+msgstr ""
+
+#: modules/on_page_optimization/init.php:85
+msgid "SEO Score "
+msgstr ""
+
+#: modules/on_page_optimization/init.php:117
+#: modules/on_page_optimization/init.php:1295
+#: modules/on_page_optimization/init.php:1524
+msgid "Score"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:124
+msgid "PSP Focus Keyword"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:128
+msgid "PSP SEO Title"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:234
+msgid "smart SEO Score"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:418
+msgid "PSP: All Scores"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:420
+msgid "PSP: No Score"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:421
+msgid "PSP: Bad"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:422
+msgid "PSP: Poor"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:423
+msgid "PSP: Ok"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:424
+msgid "PSP: Good"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:425
+msgid "PSP: Excellent"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:530
+msgid "SEO Settings"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:833
+msgid "The Meta"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:834
+#: modules/on_page_optimization/init.php:1179
+msgid "Page Status"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:951
+msgid "Edit Focus Keywords"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:957
+msgid "Add Focus Keywords"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:964
+#: modules/on_page_optimization/init.php:1116
+msgid "Auto-complete fields"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1026
+msgid "Seo Score"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1044
+msgid "Keyword Density"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1063
+msgid "Summary Analytics"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1100
+msgid "Page Meta"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1106
+msgid "Snippet Preview:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1107
+msgid "Auto-Refresh each 2 seconds:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1133
+msgid "Multi Focus Keyword:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1138
+msgid "Here you can enter Multiple Focus Keywords (maximum = 10)"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1143
+msgid "SEO Title:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1148
+msgid "The SEO Title display in search engines is limited to 70 chars, <span id=\"psp-field-title-length\"  class=\"psp-chars-left\"></span> chars left."
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1153
+msgid "Meta Description:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1157
+msgid "The Meta Description will be limited to 160 chars, <span id=\"psp-field-metadesc-length\"  class=\"psp-chars-left\"></span> chars left."
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1162
+msgid "Meta Keywords:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1166
+msgid "The Meta Kewords will be limited to 160 chars, <span id=\"psp-field-metakeywords-length\" class=\"psp-chars-left\"></span> chars left."
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1230
+msgid "PSP SEO Report for post ID:"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1231
+msgid "Close Lightbox"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1253
+#: modules/on_page_optimization/options.php:16
+msgid "Mass Optimization"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1283
+msgid "ID"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1301
+msgid "Multi Focus Keyword"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1321
+msgid "Seo report"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1328
+msgid "Action"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1331
+msgid "Optimize"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1569
+#: modules/on_page_optimization/init.php:1579
+msgid "Keyword density"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1582
+#: modules/on_page_optimization/init.php:1592
+msgid "SEO Title"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1595
+#: modules/on_page_optimization/init.php:1603
+msgid "SEO Title Words"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1606
+#: modules/on_page_optimization/init.php:1616
+msgid "Page Title"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1644
+#: modules/on_page_optimization/init.php:1653
+msgid "Permalink"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1656
+#: modules/on_page_optimization/init.php:1665
+msgid "First Paragraph"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1668
+#: modules/on_page_optimization/init.php:1676
+msgid "Embedded Content"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1679
+#: modules/on_page_optimization/init.php:1687
+msgid "Enough Words"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1690
+#: modules/on_page_optimization/init.php:1698
+msgid "Images"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1701
+#: modules/on_page_optimization/init.php:1709
+msgid "Mark as Bold"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1712
+#: modules/on_page_optimization/init.php:1720
+msgid "Mark as Italic"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1723
+#: modules/on_page_optimization/init.php:1731
+msgid "Mark as Underline"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1734
+#: modules/on_page_optimization/init.php:1742
+msgid "Subheading Tags"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1745
+#: modules/on_page_optimization/init.php:1753
+msgid "First 100 Words"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1756
+#: modules/on_page_optimization/init.php:1764
+msgid "Last 100 Words"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1767
+#: modules/on_page_optimization/init.php:1775
+msgid "External Links"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1778
+#: modules/on_page_optimization/init.php:1786
+msgid "Internal Links"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:1789
+#: modules/on_page_optimization/init.php:1797
+msgid "Competing Links"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2215
+msgid "Article"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2216
+msgid "Blog"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2217
+msgid "Profile"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2218
+msgid "Website"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2221
+msgid "Book"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2224
+msgid "Album"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2225
+msgid "Playlist"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2226
+msgid "Radio Station"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2227
+msgid "Song"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2230
+msgid "Movie"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2231
+msgid "TV Episode"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2232
+msgid "TV Show"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2233
+msgid "Video"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2236
+msgid "Object"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2272
+msgid "Summary Card"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2273
+msgid "Summary Card with Large Image"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2276
+msgid "Player Card"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2302
+msgid "Don't make a thumbnail from the image"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2305
+msgid "Web: height is 375px, width is 435px"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2306
+msgid "Mobile (non-retina displays): height is 375px, width is 280px"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2307
+msgid "Mobile (retina displays): height is 750px, width is 560px"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2308
+msgid "Small: height is 150px, width is 280px"
+msgstr ""
+
+#: modules/on_page_optimization/init.php:2309
+msgid "Smallest: height is 120px, width is 120px"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:46
+msgid "Parse content shortcodes:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:47
+msgid "If you choose \"yes\", the shortcodes in the page/post content are also parsed by the optimization algorithm, but the process will be more time consuming."
+msgstr ""
+
+#: modules/on_page_optimization/options.php:59
+msgid "Server Charset:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:60
+msgid "Server Charset (used internal by the php-query class)"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:68
+msgid "Meta title - text append to:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:69
+msgid "Append this text to the end of the meta title value from the database"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:77
+msgid "Stop Words List:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:78
+msgid ""
+"Used default at optimize to auto generate <span style=\"font-style: bold; color: red;\">Meta Keywords</span>\n"
+"\t\t\t\t\t\t\t<br/>The list of stop words (comma separated) which are not taken into consideration when analyzing the content. Default list: <strong>a, you, if</strong>"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:87
+msgid "Stop Words List - Content:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:88
+msgid "Choose \"yes\" if you want to use the \"Stop Words List\" for <span style=\"font-style: bold; color: red;\">SEO Content Analysis rules</span> too (to determine keyword density and if the page content or meta seo title has enough words)."
+msgstr ""
+
+#: modules/on_page_optimization/options.php:99
+msgid "Word Min Chars:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:101
+msgid ""
+"Used default at optimize to auto generate <span style=\"font-style: bold; color: red;\">Meta Keywords</span>\n"
+"\t\t\t\t\t\t\t<br/>The minimum number of characters for a word to be considered valid."
+msgstr ""
+
+#: modules/on_page_optimization/options.php:110
+msgid "Word Min Chars - Content:"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:111
+msgid "Choose \"yes\" if you want to use the \"Word Min Chars\" for <span style=\"font-style: bold; color: red;\">SEO Content Analysis rules</span> too (to determine keyword density and if the page content or meta seo title has enough words)."
+msgstr ""
+
+#: modules/on_page_optimization/options.php:123
+msgid "Post: Allowed Rules"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:124
+msgid "here you can choose which rules you want to use when analyzing content for <span style=\"font-style: bold; color: red;\">posts, pages, custom post types</span>.<br/>to view a rule's full text, hover over it."
+msgstr ""
+
+#: modules/on_page_optimization/options.php:126
+#: modules/on_page_optimization/options.php:140
+msgid "All Rules list"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:127
+#: modules/on_page_optimization/options.php:141
+msgid "Your chosen rules from list"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:137
+msgid "Category: Allowed Rules"
+msgstr ""
+
+#: modules/on_page_optimization/options.php:138
+msgid "here you can choose which rules you want to use when analyzing content for <span style=\"font-style: bold; color: red;\">categories, tags, custom taxonomies</span>.<br/>to view a rule's full text, hover over it."
+msgstr ""
+
+#: modules/server_status/ajax.php:45
+msgid "%1$s - We recommend setting memory to at least 128MB. See: <a href=\"%2$s\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: modules/server_status/ajax.php:84
+msgid "wp_remote_get() was successful"
+msgstr ""
+
+#: modules/server_status/ajax.php:87
+msgid "wp_remote_get() failed. Webservices Amazon won't work with your server. Contact your hosting provider. Error:"
+msgstr ""
+
+#: modules/server_status/ajax.php:90
+msgid "wp_remote_get() failed. Webservices Amazon may not work with your server."
+msgstr ""
+
+#: modules/server_status/ajax.php:107
+msgid "Your server has the SOAP Client class enabled."
+msgstr ""
+
+#: modules/server_status/ajax.php:110
+msgid "Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - some gateway plugins which use SOAP may not work as expected."
+msgstr ""
+
+#: modules/server_status/ajax.php:159
+msgid "is available"
+msgstr ""
+
+#: modules/server_status/ajax.php:163
+msgid "by"
+msgstr ""
+
+#: modules/server_status/ajax.php:163
+msgid "version"
+msgstr ""
+
+#: modules/server_status/ajax.php:233
+msgid "Connection to smushit.com server was successful"
+msgstr ""
+
+#: modules/server_status/ajax.php:236
+msgid "Connection to smushit.com server failed. Contact your hosting provider. Error:"
+msgstr ""
+
+#: modules/server_status/ajax.php:239
+msgid "Connection to smushit.com server failed."
+msgstr ""
+
+#: modules/server_status/ajax.php:268
+msgid "Connection to %s server was successful"
+msgstr ""
+
+#: modules/server_status/ajax.php:271
+msgid "Connection to %s server failed. Contact your hosting provider. Error:"
+msgstr ""
+
+#: modules/server_status/ajax.php:274
+msgid "Connection to %s server failed. Error:"
+msgstr ""
+
+#: modules/server_status/ajax.php:340
+msgid "all mandatory fields: client id, client secret, redirect uri are set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:340
+msgid "some of the mandatory fields: client id, client secret, redirect uri are NOT set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:452
+msgid "all mandatory fields: developer key, custom search id, google country are set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:452
+msgid "some of the mandatory fields: developer key, custom search id, google country are NOT set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:525
+msgid "all mandatory fields: developer key, google language are set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:525
+msgid "some of the mandatory fields: developer key, google language are NOT set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:621
+msgid "all mandatory fields: app id, app secret, language are set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:621
+msgid "some of the mandatory fields: app id, app secret, language are NOT set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:685
+msgid "all mandatory fields: tiny api key, image sizes are set!"
+msgstr ""
+
+#: modules/server_status/ajax.php:685
+msgid "some of the mandatory fields: tiny api key, image sizes are NOT set!"
+msgstr ""
+
+#: modules/server_status/config.php:25
+msgid "Using the server status module you can check if your install is correct, if you have the right server configuration and you can test the product imports."
+msgstr ""
+
+#: modules/server_status/init.php:73
+msgid "Check System status"
+msgstr ""
+
+#: modules/server_status/init.php:74
+msgid "System Status"
+msgstr ""
+
+#: modules/server_status/init.php:148
+msgid "Modules"
+msgstr ""
+
+#: modules/server_status/init.php:154
+msgid "Active Modules"
+msgstr ""
+
+#: modules/server_status/init.php:171
+msgid "Environment"
+msgstr ""
+
+#: modules/server_status/init.php:177
+msgid "Home URL"
+msgstr ""
+
+#: modules/server_status/init.php:181
+msgid "Plugin Version"
+msgstr ""
+
+#: modules/server_status/init.php:185
+msgid "WP Version"
+msgstr ""
+
+#: modules/server_status/init.php:197
+msgid "Web Server Info"
+msgstr ""
+
+#: modules/server_status/init.php:201
+msgid "PHP Version"
+msgstr ""
+
+#: modules/server_status/init.php:210
+msgid "MySQL Version"
+msgstr ""
+
+#: modules/server_status/init.php:219
+msgid "WP Memory Limit"
+msgstr ""
+
+#: modules/server_status/init.php:223
+msgid "WP Debug Mode"
+msgstr ""
+
+#: modules/server_status/init.php:235
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: modules/server_status/init.php:239
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: modules/server_status/init.php:248
+msgid "PHP Time Limit"
+msgstr ""
+
+#: modules/server_status/init.php:261
+msgid "Plugins"
+msgstr ""
+
+#: modules/server_status/init.php:267
+msgid "Installed Plugins"
+msgstr ""
+
+#: modules/server_status/init.php:281
+msgid "Force SSL"
+msgstr ""
+
+#: modules/setup_backup/config.php:23
+msgid "Using this module you can Import settings from other seo plugins!"
+msgstr ""
+
+#: modules/setup_backup/options.php:15
+msgid "Import settings from other SEO plugins for posts, pages, custom post types"
+msgstr ""
+
+#: modules/setup_backup/options.php:23
+msgid "Import SEO"
+msgstr ""
+
+#: modules/setup_backup/options.php:37
+msgid "Import from:"
+msgstr ""
+
+#: modules/setup_backup/options.php:38
+msgid "Select the plugin from which you want to import SEO settings for posts, pages, custom post types."
+msgstr ""
+
+#: modules/title_meta_format/config.php:23
+msgid "Using this module you can set custom page titles, meta descriptions, meta keywords, meta robots and social meta using defined format tags for Homepage, Posts, Pages, Categories, Tags, Custom Taxonomies, Archives, Authors, Search, 404 Pages and Pagination."
+msgstr ""
+
+#: modules/title_meta_format/options.php:29
+#: modules/title_meta_format/options.php:181
+msgid "Title Format"
+msgstr ""
+
+#: modules/title_meta_format/options.php:50
+#: modules/title_meta_format/options.php:184
+msgid "Meta Robots"
+msgstr ""
+
+#: modules/title_meta_format/options.php:82
+#: modules/title_meta_format/options.php:88
+#: modules/title_meta_format/options.php:327
+#: modules/title_meta_format/options.php:335
+#: modules/title_meta_format/options.php:343
+#: modules/title_meta_format/options.php:351
+#: modules/title_meta_format/options.php:359
+#: modules/title_meta_format/options.php:367
+#: modules/title_meta_format/options.php:375
+#: modules/title_meta_format/options.php:391
+#: modules/title_meta_format/options.php:412
+#: modules/title_meta_format/options.php:436
+#: modules/title_meta_format/options.php:462
+#: modules/title_meta_format/options.php:470
+#: modules/title_meta_format/options.php:478
+#: modules/title_meta_format/options.php:486
+#: modules/title_meta_format/options.php:494
+#: modules/title_meta_format/options.php:502
+#: modules/title_meta_format/options.php:510
+#: modules/title_meta_format/options.php:531
+#: modules/title_meta_format/options.php:555
+#: modules/title_meta_format/options.php:581
+#: modules/title_meta_format/options.php:589
+#: modules/title_meta_format/options.php:597
+#: modules/title_meta_format/options.php:605
+#: modules/title_meta_format/options.php:613
+#: modules/title_meta_format/options.php:621
+#: modules/title_meta_format/options.php:629
+#: modules/title_meta_format/options.php:650
+#: modules/title_meta_format/options.php:674
+msgid "Available here: (global availability) tags; (specific availability) tags:<span class=\"psp-tags-specific-availability\">"
+msgstr ""
+
+#: modules/title_meta_format/options.php:92
+#: modules/title_meta_format/options.php:707
+#: modules/title_meta_format/options.php:716
+#: modules/title_meta_format/options.php:725
+#: modules/title_meta_format/options.php:734
+#: modules/title_meta_format/options.php:743
+#: modules/title_meta_format/options.php:752
+#: modules/title_meta_format/options.php:761
+#: modules/title_meta_format/options.php:770
+#: modules/title_meta_format/options.php:779
+#: modules/title_meta_format/options.php:788
+#: modules/title_meta_format/options.php:810
+#: modules/title_meta_format/options.php:836
+msgid "if you do not select \"noindex\", then \"index\" is by default active; if you do not select \"nofollow\", then \"follow\" is by default active"
+msgstr ""
+
+#: modules/title_meta_format/options.php:170
+msgid "Title & Meta Formats"
+msgstr ""
+
+#: modules/title_meta_format/options.php:180
+msgid "Format Tags List"
+msgstr ""
+
+#: modules/title_meta_format/options.php:191
+#: modules/title_meta_format/options.php:194
+#: modules/title_meta_format/options.php:201
+#: modules/title_meta_format/options.php:208
+#: modules/title_meta_format/options.php:215
+msgid "Wordpress"
+msgstr ""
+
+#: modules/title_meta_format/options.php:196
+#: modules/title_meta_format/options.php:203
+#: modules/title_meta_format/options.php:210
+#: modules/title_meta_format/options.php:217
+msgid "Custom Post Type"
+msgstr ""
+
+#: modules/title_meta_format/options.php:198
+#: modules/title_meta_format/options.php:205
+#: modules/title_meta_format/options.php:212
+#: modules/title_meta_format/options.php:219
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: modules/title_meta_format/options.php:222
+#: modules/title_meta_format/options.php:231
+msgid "General"
+msgstr ""
+
+#: modules/title_meta_format/options.php:224
+#: modules/title_meta_format/options.php:233
+msgid "Posts, Pages"
+msgstr ""
+
+#: modules/title_meta_format/options.php:226
+#: modules/title_meta_format/options.php:235
+msgid "Categories, Tags"
+msgstr ""
+
+#: modules/title_meta_format/options.php:228
+#: modules/title_meta_format/options.php:239
+msgid "Homepage - default"
+msgstr ""
+
+#: modules/title_meta_format/options.php:237
+msgid "Generic App Card Type for website"
+msgstr ""
+
+#: modules/title_meta_format/options.php:252
+msgid "Force Title Meta tag: "
+msgstr ""
+
+#: modules/title_meta_format/options.php:253
+msgid "force title meta tag (in some cases where you don't see the meta title you've set for you post|page, you need to try and see which one of these 2 options works)"
+msgstr ""
+
+#: modules/title_meta_format/options.php:255
+msgid "parse page content and replace"
+msgstr ""
+
+#: modules/title_meta_format/options.php:256
+msgid "use wp_title wordpress hook"
+msgstr ""
+
+#: modules/title_meta_format/options.php:265
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t<h2>Basic Setup</h2>\n"
+"\t\t\t\t\t\t\t<p>You can set the custom page title using defined formats tags.</p>\n"
+"\t\t\t\t\t\t\t<h3>Available Format Tags</h3>\n"
+"\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t<li><code>{site_title}</code> : the website's title (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{site_description}</code> : the website's description (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_date}</code> : current date (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_time}</code> : current time (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_day}</code> : current day (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_year}</code> : current year (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_month}</code> : current month (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{current_week_day}</code> : current day of the week (global availability)</li>\n"
+"\n"
+"\n"
+"\t\t\t\t\t\t\t\t<li><code>{title}</code> : the page|post title (global availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{id}</code> : the page|post id (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{date}</code> : the page|post date (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{description}</code> : the page|post full description (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{short_description}</code> : the page|post excerpt or if excerpt does not exist, 200 character maximum are retrieved from description (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{parent}</code> : the page|post parent title (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{author}</code> : the page|post author name (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{author_username}</code> : the page|post author username (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{author_nickname}</code> : the page|post author nickname (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{author_description}</code> : the page|post author biographical Info (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{categories}</code> : the post categories names list separated by comma (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{tags}</code> : the post tags names list separated by comma (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{terms}</code> : the post custom taxonomies terms names list separated by comma (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{category}</code> : the category name or the post first found category name (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{category_description}</code> : the category description or the post first found category description (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{tag}</code> : the tag name or the post first found tag name (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{tag_description}</code> : the tag description or the post first found tag description (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{term}</code> : the term name or the post first found custom taxonomy term name (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{term_description}</code> : the term description or the post first found custom taxonomy term description (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{search_keyword}</code> : the word(s) used for search (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{keywords}</code> : the post|page meta keywords already defined (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{focus_keywords}</code> : the post|page primary focus keyword (first one from the list of focus keywords) already defined (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{multi_focus_keywords}</code> : the post|page list of focus keywords already defined separated by comma (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{totalpages}</code> : the total number of pages (if pagination is used), default value is 1 (specific availability)</li>\n"
+"\t\t\t\t\t\t\t\t<li><code>{pagenumber}</code> : the page number (if pagination is used), default value is 1 (specific availability)</li>\n"
+"\t\t\t\t\t\t\t</ul><br />\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+
+#: modules/title_meta_format/options.php:318
+msgid "Homepage <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:319
+#: modules/title_meta_format/options.php:383
+#: modules/title_meta_format/options.php:454
+#: modules/title_meta_format/options.php:573
+msgid "Available here: (global availability) tags"
+msgstr ""
+
+#: modules/title_meta_format/options.php:326
+msgid "Post <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:334
+msgid "Page <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:342
+msgid "Category <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:350
+msgid "Tag <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:355
+msgid "Archives"
+msgstr ""
+
+#: modules/title_meta_format/options.php:358
+msgid "Archives <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:359
+#: modules/title_meta_format/options.php:494
+#: modules/title_meta_format/options.php:613
+msgid "- is based on archive type: per year or per month,year or per day,month,year"
+msgstr ""
+
+#: modules/title_meta_format/options.php:366
+msgid "Author <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:371
+msgid "Search for "
+msgstr ""
+
+#: modules/title_meta_format/options.php:374
+msgid "Search <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:379
+msgid "404 Page Not Found |"
+msgstr ""
+
+#: modules/title_meta_format/options.php:382
+msgid "404 Page Not Found <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:387
+msgid "- Page"
+msgstr ""
+
+#: modules/title_meta_format/options.php:390
+msgid "Pagination <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:398
+#: modules/title_meta_format/options.php:517
+#: modules/title_meta_format/options.php:636
+#: modules/title_meta_format/options.php:796
+msgid "Use Pagination:"
+msgstr ""
+
+#: modules/title_meta_format/options.php:399
+msgid "Choose Yes if you want to use Pagination Title Format in pages where it can be applied!"
+msgstr ""
+
+#: modules/title_meta_format/options.php:401
+#: modules/title_meta_format/options.php:520
+#: modules/title_meta_format/options.php:639
+#: modules/title_meta_format/options.php:799
+msgid "YES"
+msgstr ""
+
+#: modules/title_meta_format/options.php:402
+#: modules/title_meta_format/options.php:521
+#: modules/title_meta_format/options.php:640
+#: modules/title_meta_format/options.php:800
+msgid "NO"
+msgstr ""
+
+#: modules/title_meta_format/options.php:411
+#: modules/title_meta_format/options.php:435
+msgid "--Generic-- <br/><span>Title Format:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:453
+msgid "Homepage <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:461
+msgid "Post <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:469
+msgid "Page <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:477
+msgid "Category <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:485
+msgid "Tag <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:493
+msgid "Archives <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:501
+msgid "Author <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:506
+msgid "Page {pagenumber}"
+msgstr ""
+
+#: modules/title_meta_format/options.php:509
+msgid "Pagination <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:518
+msgid "Choose Yes if you want to use Pagination Meta Description in pages where it can be applied!"
+msgstr ""
+
+#: modules/title_meta_format/options.php:530
+#: modules/title_meta_format/options.php:554
+msgid "--Generic-- <br/><span>Meta Description:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:572
+msgid "Homepage <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:580
+msgid "Post <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:588
+msgid "Page <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:596
+msgid "Category <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:604
+msgid "Tag <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:612
+msgid "Archives <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:620
+msgid "Author <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:628
+msgid "Pagination <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:637
+msgid "Choose Yes if you want to use Pagination Meta Keywords in pages where it can be applied!"
+msgstr ""
+
+#: modules/title_meta_format/options.php:649
+#: modules/title_meta_format/options.php:673
+msgid "--Generic-- <br/><span>Meta Keywords:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:689
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t<h2>What it means:</h2>\n"
+"\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t<li><code>NOINDEX</code><span> : tag tells Google not to index a specific page</span></li>\n"
+"\t\t\t\t\t\t\t\t<li><code>NOFOLLOW</code><span> : tag tells Google not to follow the links on a specific page</span></li>\n"
+"\t\t\t\t\t\t\t\t<li><code>NOARCHIVE</code><span> : tag tells Google not to store a cached copy of your page</span></li>\n"
+"\t\t\t\t\t\t\t\t<li><code>NOODP</code><span> : tag can prevent Google from using the meta-title and description for this page in <a href=\"http://www.dmoz.org/\" target=\"_blank\">DMOZ</a> (Open Directory Project) as the snippet for your page in the search results.<br/><span style=\"color: red;\">But as of Mar 17, 2017, DMOZ is no longer available, so this tag is considered deprecated and we'll remove it in a future plugin version.</span></span></li>\n"
+"\t\t\t\t\t\t\t\t<!--<li><code>NOSNIPPET</code><span> : tag tells Google not to show a snippet (description) under your Google listing, it will also not show a cached link in the search results</span></li>-->\n"
+"\t\t\t\t\t\t\t</ul>\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+
+#: modules/title_meta_format/options.php:706
+msgid "Homepage <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:715
+msgid "Post <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:724
+msgid "Page <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:733
+msgid "Category <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:742
+msgid "Tag <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:751
+msgid "Archives <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:760
+msgid "Author <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:769
+msgid "Search <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:778
+msgid "404 Page Not Found <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:787
+msgid "Pagination <br/><span>Meta Robots:</span>"
+msgstr ""
+
+#: modules/title_meta_format/options.php:797
+msgid "Choose Yes if you want to use Pagination Meta Robots in pages where it can be applied!"
+msgstr ""
+
+#: modules/title_meta_format/options.php:809
+#: modules/title_meta_format/options.php:835
+msgid "--Generic-- <br/><span>Meta Robots:</span>"
+msgstr ""

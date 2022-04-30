@@ -1,0 +1,43 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+ * 31.05.2021 - Version 4.0
+[Update] Improved compatibility with latest Wordpress
+
+
+ * 27.08.2017 - Version 3.0
+ * New release
+Autocheck Current Post / Page / Custom Taxonomy
+smartSeo Score
+smartSEO Score on Posts/ Pages / Custom taxonomies Listings
+Multiple Focus Keywords!
+AutoComplete Page Meta - with Snippet Preview
+Parse Shortcodes (compatible with Visual Composer)
+Custom Title & Meta Formats - Meta Description, Meta keywords & Meta Robots
+Custom SEO Rules and Settings - Choose what rules you wish to use
+Import SEO Settings from other SEO Plugins
+
+
+ --------------------
+ * bug fix:
+ *
+ * ---- 14.12.2012
+ *	1. Fix for wp 3.5
+ *
+ * Major update:
+ * 1. Allow to use smart seo on any public post types
+ *
+ *
+ * bug fix:
+ *
+ * ---- 27.08.2012
+ *  1. Quote escape and html load parser.
+ *
+ *
+ *
+ * bug fix:
+ *
+ * ---- 05.04.2011 - 22.58
+ *  1. modify from GET request to POST request - GET have size limit
+ *  2. stop request api.php from each dashboard pages
+ *

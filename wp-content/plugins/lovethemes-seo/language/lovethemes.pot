@@ -1,0 +1,75 @@
+# Copyright (C) 2021 Magic SEO
+# This file is distributed under the same license as the Magic SEO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic SEO 20210912\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lovethemes-seo\n"
+"POT-Creation-Date: 2021-09-12 15:13:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/seo-options.php:35
+msgid "Magic SEO"
+msgstr ""
+
+#: classes/seo-options.php:36
+msgid "This plugin enables sitewide automatic Search Engine Optimisation (SEO) for your website. It automatically generates titles, descriptions and meta tags directly from your websites content and also adds Open Graph data for social media. Additionally, it will generate a search engine friendly XML sitemap that automatically updates with your content and provides further options for enhanced performance & security which can directly affect Search Engine Optimisation (SEO)."
+msgstr ""
+
+#: classes/seo-options.php:129
+msgid "Find your Google Analytics UA-ID"
+msgstr ""
+
+#. translators: 1 is a link with text "WooCommerce Shipping Options" and URL
+#. admin.php?page=wc-settings&tab=shipping
+
+#: classes/seo-options.php:134
+msgid "The settings below are in addition to the automatic SEO enhancements provided by the plugin. They can directly affect SEO by improving your websites overall performance & security. %1$s"
+msgstr ""
+
+#: classes/seo-options.php:142
+msgid "UA-XXXXXX-X"
+msgstr ""
+
+#: classes/seo-options.php:144
+msgid "If the theme you are using has a tracking code option, only use one, not both."
+msgstr ""
+
+#: classes/seo-options.php:154
+msgid "Remove emoji junk, enable webp mime type upload, and remove query strings to increase overall website performance."
+msgstr ""
+
+#: classes/seo-options.php:163
+msgid "Reject requests for comment posting coming from a browser (or, more commonly, a bot) that has no referrer in the request and will remove unneeded header information and x-pingback that can be used for version hacking."
+msgstr ""
+
+#: classes/seo-options.php:172
+msgid "Minification reduces load time and bandwidth usage on your website. It dramatically improves website speed and accessibility, directly translating into a better user experience."
+msgstr ""
+
+#: functions/fn.security.php:20
+msgid "Please enable referrers in your browser."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Magic SEO"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://demo.lovethemes.co/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simply write good, relevant content and Magic SEO will do the rest! This plugin enables sitewide automatic Search Engine Optimisation (SEO) for your website. It automatically generates titles, descriptions and meta tags directly from your websites content and also adds Open Graph data for social media. Additionally, it will generate a search engine friendly XML sitemap that automatically updates with your content and provides further options for enhanced performance & security which can directly affect Search Engine Optimisation (SEO)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LoveThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lovethemes.co/"
+msgstr ""
